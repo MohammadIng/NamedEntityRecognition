@@ -7,9 +7,9 @@ from flair.trainers import ModelTrainer
 
 class Model:
 
-    def __init__(self, train_data_folder="train_data", test_data_folder="",
-                 models_folder="models/flair_model",  # +datetime.now().strftime("%d %m %Y %H:%M"),
-                 model_path="models/flair_model/final-model.pt", epochs=50):
+    def __init__(self, train_data_folder="../train_data", test_data_folder="",
+                 models_folder="../models/flair_model",  # +datetime.now().strftime("%d %m %Y %H:%M"),
+                 model_path="../models/flair_model/final-model.pt", epochs=50):
         self.train_data_folder = train_data_folder
         self.test_data_folder = test_data_folder
         self.models_folder = models_folder

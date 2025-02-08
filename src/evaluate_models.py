@@ -267,7 +267,7 @@ class Evaluator:
         fig.suptitle("Metrics Comparison per Tool (Scatterplots)", fontsize=16)
 
         plt.tight_layout(rect=[0.04, 0.04, 1, 0.95])
-        plt.savefig(f"plots/evaluate_result_{datetime.now().strftime("%Y_%m_%d%H_%M_%S")}.png")
+        plt.savefig(f"../plots/evaluate_result_{datetime.now().strftime("%Y_%m_%d%H_%M_%S")}.png")
 
         plt.show()
 

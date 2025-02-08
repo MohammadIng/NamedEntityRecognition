@@ -1,8 +1,38 @@
 {
     "results": [
         {
-            "id": "21783",
-            "sender": "Geinitz",
+            "id": "BKW-K059-009-002-006",
+            "sender": "Krause",
+            "entities": [
+                [
+                    "Rostock",
+                    "LOC",
+                    344,
+                    351
+                ],
+                [
+                    "meines\r\nverstorbenen Vaters",
+                    "PER",
+                    574,
+                    601
+                ],
+                [
+                    "seiner Zeit",
+                    "EVENT",
+                    619,
+                    630
+                ],
+                [
+                    "L Krause\r\nVersicherungsbeamter",
+                    "PER",
+                    725,
+                    755
+                ]
+            ]
+        },
+        {
+            "id": "BKW-K059-014-001-001",
+            "sender": "Krause",
             "entities": [
                 [
                     "Rostock",
@@ -11,748 +41,1342 @@
                     12
                 ],
                 [
-                    "11.3.08",
+                    "4. Nov. 97",
                     "EVENT",
                     27,
-                    34
+                    37
                 ],
                 [
-                    "Herr Dr.",
-                    "PER",
-                    63,
-                    71
-                ],
-                [
-                    "Schweriner Archiv",
-                    "ORG",
-                    208,
-                    225
-                ],
-                [
-                    "Zentrale",
-                    "ORG",
-                    298,
-                    306
-                ],
-                [
-                    "Bloch",
-                    "PER",
-                    403,
-                    408
-                ],
-                [
-                    "mitteleres Meckl",
+                    "Augusten Str. 116",
                     "LOC",
-                    560,
-                    576
+                    68,
+                    85
                 ],
                 [
-                    "E Geinitz",
+                    "Herr",
                     "PER",
-                    622,
-                    631
-                ]
-            ]
-        },
-        {
-            "id": "21787",
-            "sender": "Geinitz",
-            "entities": [
-                [
-                    "Herr Prof",
-                    "PER",
-                    19,
-                    28
+                    112,
+                    116
                 ],
                 [
-                    "Peltz",
+                    "mei-\r\nnen Gewährsmännern",
                     "PER",
-                    63,
-                    68
+                    480,
+                    504
                 ],
                 [
-                    "Prof Bloch",
+                    "Herr Gymnasiallehrer (Seminarist) Angershein",
                     "PER",
-                    146,
-                    156
+                    543,
+                    587
                 ],
                 [
-                    "4.2.09",
+                    "´pril",
                     "EVENT",
-                    307,
-                    313
-                ],
-                [
-                    "E Geinitz",
-                    "PER",
-                    328,
-                    337
-                ]
-            ]
-        },
-        {
-            "id": "21782",
-            "sender": "Geinitz",
-            "entities": [
-                [
-                    "Rostock",
-                    "LOC",
-                    5,
-                    12
-                ],
-                [
-                    "5.3.08",
-                    "EVENT",
-                    27,
-                    33
-                ],
-                [
-                    "Herrn Dr Witte",
-                    "PER",
-                    51,
-                    65
-                ],
-                [
-                    "Dr Wossidlo",
-                    "PER",
-                    81,
-                    92
-                ],
-                [
-                    "Sammler",
-                    "PER",
-                    141,
-                    148
-                ],
-                [
-                    "heute",
-                    "EVENT",
-                    170,
-                    175
-                ],
-                [
-                    "Bezirke",
-                    "LOC",
-                    227,
-                    234
-                ],
-                [
-                    "Obmänner",
-                    "PER",
-                    290,
-                    298
+                    609,
+                    614
                 ],
                 [
                     "April",
                     "EVENT",
-                    373,
-                    378
+                    632,
+                    637
                 ],
                 [
-                    "Bez. Schwerin",
-                    "LOC",
-                    415,
-                    428
-                ],
-                [
-                    "Obmänner",
-                    "PER",
-                    471,
-                    479
-                ],
-                [
-                    "Peltz",
-                    "PER",
-                    507,
-                    512
-                ],
-                [
-                    "beiden Herren",
-                    "PER",
-                    542,
-                    555
-                ],
-                [
-                    "Peltz",
-                    "PER",
-                    639,
-                    644
-                ],
-                [
-                    "Obmann",
-                    "PER",
-                    699,
-                    705
-                ],
-                [
-                    "heute",
+                    "Scheperwordi",
                     "EVENT",
-                    798,
-                    803
+                    654,
+                    666
                 ],
                 [
-                    "grossen Forstbezirke",
-                    "LOC",
-                    827,
-                    847
+                    "Februar",
+                    "EVENT",
+                    684,
+                    691
                 ],
                 [
-                    "Obmänner",
+                    "Aust",
+                    "EVENT",
+                    708,
+                    712
+                ],
+                [
+                    "Heuaust",
+                    "EVENT",
+                    730,
+                    737
+                ],
+                [
+                    "Weisſes Kreuz",
+                    "ORG",
+                    754,
+                    767
+                ],
+                [
+                    "25./10.97",
+                    "EVENT",
+                    781,
+                    790
+                ],
+                [
+                    "Herr Fr. Kracht",
                     "PER",
-                    881,
-                    889
+                    810,
+                    825
                 ],
                 [
-                    "Forstmeister",
-                    "PER",
-                    914,
-                    926
+                    "Weisſes Kreuz",
+                    "ORG",
+                    839,
+                    852
                 ],
                 [
-                    "Oberförster",
-                    "PER",
-                    942,
-                    953
+                    "25/10.97",
+                    "EVENT",
+                    867,
+                    875
                 ],
                 [
-                    "gr. Seen",
-                    "LOC",
-                    1022,
-                    1030
+                    "Februari mand",
+                    "EVENT",
+                    900,
+                    913
                 ],
                 [
-                    "Herrn Dr Witte",
-                    "PER",
-                    1113,
-                    1127
+                    "Febrar",
+                    "EVENT",
+                    930,
+                    936
                 ],
                 [
-                    "Strelitz",
-                    "LOC",
-                    1141,
-                    1149
+                    "Scheperwordi",
+                    "EVENT",
+                    954,
+                    966
                 ],
                 [
-                    "Geinitz",
-                    "PER",
-                    1198,
-                    1205
+                    "Schipperwordi",
+                    "EVENT",
+                    996,
+                    1009
+                ],
+                [
+                    "´pril",
+                    "EVENT",
+                    1026,
+                    1031
+                ],
+                [
+                    "Aust",
+                    "EVENT",
+                    1048,
+                    1052
+                ],
+                [
+                    "Heuaust",
+                    "EVENT",
+                    1069,
+                    1076
+                ],
+                [
+                    "Roggenaust",
+                    "EVENT",
+                    1093,
+                    1103
+                ],
+                [
+                    "Johanns-\r\nmand",
+                    "EVENT",
+                    1120,
+                    1134
                 ]
             ]
         },
         {
-            "id": "BKW-K059-001-001-001",
+            "id": "BKW-K059-014-001-002",
             "sender": "Krause",
             "entities": [
                 [
-                    "L. Krause",
+                    "Herr O. Eisfeldt",
                     "PER",
-                    27,
-                    36
+                    13,
+                    29
                 ],
                 [
-                    "Herr Professor",
-                    "PER",
-                    63,
-                    77
-                ],
-                [
-                    "heute",
+                    "29./10.97",
                     "EVENT",
-                    132,
-                    137
+                    44,
+                    53
                 ],
                 [
-                    "Biestow",
-                    "LOC",
-                    212,
-                    219
-                ],
-                [
-                    "Mönchhagen",
-                    "LOC",
-                    235,
-                    245
-                ],
-                [
-                    "Biestow",
-                    "LOC",
-                    353,
-                    360
-                ],
-                [
-                    "Strasſen, = Chausſee = d. Bahnanlagen",
-                    "LOC",
-                    559,
-                    596
-                ],
-                [
-                    "drausſen",
-                    "LOC",
-                    626,
-                    634
-                ],
-                [
-                    "nach meinem Tode",
+                    "Januari",
                     "EVENT",
-                    838,
-                    854
+                    88,
+                    95
                 ],
                 [
-                    "Schweriner & Rostocker\r\nMuseum",
-                    "ORG",
-                    1295,
-                    1325
+                    "Scheperwordi",
+                    "EVENT",
+                    138,
+                    150
                 ],
                 [
-                    "Geinitz",
+                    "´pril",
+                    "EVENT",
+                    167,
+                    172
+                ],
+                [
+                    "Maimand",
+                    "EVENT",
+                    189,
+                    196
+                ],
+                [
+                    "in de Aust",
+                    "EVENT",
+                    213,
+                    223
+                ],
+                [
+                    "Heuaust",
+                    "EVENT",
+                    240,
+                    247
+                ],
+                [
+                    "Roggenaust",
+                    "EVENT",
+                    265,
+                    275
+                ],
+                [
+                    "Tüffelaust",
+                    "EVENT",
+                    292,
+                    302
+                ],
+                [
+                    "Johannsmand",
+                    "EVENT",
+                    319,
+                    330
+                ],
+                [
+                    "Dat best Viertel",
+                    "EVENT",
+                    535,
+                    551
+                ],
+                [
+                    "die Kürchner",
                     "PER",
-                    1341,
-                    1348
+                    574,
+                    586
                 ],
                 [
-                    "Zoolog. Institut",
-                    "ORG",
-                    1361,
-                    1377
+                    "Zeit vor Weih-\r\nnachten",
+                    "EVENT",
+                    604,
+                    627
                 ],
                 [
-                    "Schulsammlung",
-                    "ORG",
-                    1390,
-                    1403
+                    "ein alter Rostocker\r\nHandwerksmeister",
+                    "PER",
+                    674,
+                    711
                 ],
                 [
-                    "Ratsarchiv",
-                    "ORG",
-                    1435,
-                    1445
+                    "1. Nov. 97",
+                    "EVENT",
+                    728,
+                    738
                 ],
                 [
-                    "Niedersachsen",
-                    "ORG",
-                    1634,
-                    1647
-                ],
-                [
-                    "Zeitschrift für\r\nEthologie",
-                    "ORG",
-                    1668,
-                    1694
-                ],
-                [
-                    "Dorffriedhöfe",
+                    "Rostocker Gegend",
                     "LOC",
-                    1870,
-                    1883
+                    783,
+                    799
                 ],
                 [
-                    "Dr L Krause",
+                    "de´pril",
+                    "EVENT",
+                    815,
+                    822
+                ],
+                [
+                    "in ´e Aust",
+                    "EVENT",
+                    839,
+                    849
+                ],
+                [
+                    " „in ´e Heuaust“",
+                    "EVENT",
+                    866,
+                    882
+                ],
+                [
+                    " „___ Heu“ ",
+                    "EVENT",
+                    902,
+                    913
+                ],
+                [
+                    " „in ´e Kleeaust“ ",
+                    "EVENT",
+                    931,
+                    949
+                ],
+                [
+                    " „in_ Klever“ ",
+                    "EVENT",
+                    969,
+                    983
+                ],
+                [
+                    "in _ vorigen Sümmer.“ ",
+                    "EVENT",
+                    1001,
+                    1023
+                ],
+                [
+                    "Hornung",
+                    "EVENT",
+                    1049,
+                    1056
+                ],
+                [
+                    "Hr. Kracht",
                     "PER",
-                    2170,
-                    2181
+                    1183,
+                    1193
                 ],
                 [
-                    "WossiDiA",
-                    "ORG",
-                    2208,
-                    2216
+                    "in seiner\r\nJugend",
+                    "EVENT",
+                    1208,
+                    1225
+                ],
+                [
+                    "seinem Vater",
+                    "PER",
+                    1243,
+                    1255
+                ],
+                [
+                    "im Hornung",
+                    "EVENT",
+                    1311,
+                    1321
+                ],
+                [
+                    "im März",
+                    "EVENT",
+                    1369,
+                    1376
                 ]
             ]
         },
         {
-            "id": "BKW-K059-001-001-002",
+            "id": "BKW-K059-014-001-003",
+            "sender": "Krause",
+            "entities": [
+                [
+                    "Wotenitz",
+                    "LOC",
+                    7,
+                    15
+                ],
+                [
+                    "Hr. Eisfeldt",
+                    "PER",
+                    51,
+                    63
+                ],
+                [
+                    "bei Grevesmühlen",
+                    "LOC",
+                    78,
+                    94
+                ],
+                [
+                    "Eisfeldt",
+                    "PER",
+                    410,
+                    418
+                ],
+                [
+                    "Eisfeldt",
+                    "PER",
+                    502,
+                    510
+                ],
+                [
+                    "bei Tessin",
+                    "LOC",
+                    616,
+                    626
+                ],
+                [
+                    "in der Grevesmühlener Gegend",
+                    "LOC",
+                    736,
+                    764
+                ],
+                [
+                    "Hr. Angerstein",
+                    "PER",
+                    923,
+                    937
+                ],
+                [
+                    "1850",
+                    "EVENT",
+                    955,
+                    959
+                ],
+                [
+                    "bei Ludwigslust",
+                    "LOC",
+                    973,
+                    988
+                ],
+                [
+                    "Herr Kracht",
+                    "PER",
+                    1078,
+                    1089
+                ],
+                [
+                    "Zülow, Parochie Stralendorf,",
+                    "LOC",
+                    1111,
+                    1139
+                ],
+                [
+                    "Fr. Kracht",
+                    "PER",
+                    1678,
+                    1688
+                ],
+                [
+                    "Weisſeskreuz",
+                    "ORG",
+                    1700,
+                    1712
+                ],
+                [
+                    "20. u. 25. Oct. 97",
+                    "EVENT",
+                    1727,
+                    1745
+                ]
+            ]
+        },
+        {
+            "id": "BKW-K059-014-001-004",
+            "sender": "Krause",
+            "entities": [
+                [
+                    "auf dem Lande",
+                    "LOC",
+                    100,
+                    113
+                ],
+                [
+                    "Auf dem Lande",
+                    "LOC",
+                    620,
+                    633
+                ],
+                [
+                    "In der Röbeler Gegend",
+                    "LOC",
+                    771,
+                    792
+                ],
+                [
+                    "auf dem Lande",
+                    "LOC",
+                    1027,
+                    1040
+                ],
+                [
+                    "auf dem Lande",
+                    "LOC",
+                    1300,
+                    1313
+                ],
+                [
+                    "im Laufe des Octobers 97",
+                    "EVENT",
+                    1452,
+                    1476
+                ],
+                [
+                    "Hrn. Eisfeldt",
+                    "PER",
+                    1494,
+                    1507
+                ]
+            ]
+        },
+        {
+            "id": "BKW-K059-014-001-005",
+            "sender": "Krause",
+            "entities": [
+                [
+                    "Rostocker Ztg",
+                    "ORG",
+                    72,
+                    85
+                ],
+                [
+                    "vom 5. Jan. 1888",
+                    "EVENT",
+                    106,
+                    122
+                ],
+                [
+                    "Zu Maitag d. J.",
+                    "EVENT",
+                    229,
+                    244
+                ],
+                [
+                    "Dobbin i. Mecklb.",
+                    "LOC",
+                    314,
+                    331
+                ],
+                [
+                    "G. von Brocken",
+                    "PER",
+                    344,
+                    358
+                ],
+                [
+                    "Zülow, Parochie\r\nStralendorf",
+                    "LOC",
+                    729,
+                    757
+                ],
+                [
+                    "früher (vor ca 40 Jahren)",
+                    "EVENT",
+                    784,
+                    809
+                ],
+                [
+                    "Kracht",
+                    "PER",
+                    888,
+                    894
+                ],
+                [
+                    "Weisſes Kreuz",
+                    "ORG",
+                    906,
+                    919
+                ],
+                [
+                    "20/25 October 97",
+                    "EVENT",
+                    934,
+                    950
+                ],
+                [
+                    "Prangendorf",
+                    "LOC",
+                    1169,
+                    1180
+                ],
+                [
+                    "zu Marburg",
+                    "LOC",
+                    1284,
+                    1294
+                ]
+            ]
+        },
+        {
+            "id": "BKW-K059-014-001-006",
+            "sender": "Krause",
+            "entities": [
+                [
+                    "letzten Ferien",
+                    "EVENT",
+                    22,
+                    36
+                ],
+                [
+                    "Keh-\r\ndings",
+                    "PER",
+                    84,
+                    95
+                ],
+                [
+                    "in Prangendorf",
+                    "LOC",
+                    107,
+                    121
+                ],
+                [
+                    "die alte Kathenfrau",
+                    "PER",
+                    138,
+                    157
+                ],
+                [
+                    "mein Korpsbruder",
+                    "PER",
+                    179,
+                    195
+                ],
+                [
+                    "Cammin",
+                    "LOC",
+                    401,
+                    407
+                ],
+                [
+                    "meines Vaters",
+                    "PER",
+                    680,
+                    693
+                ],
+                [
+                    "L Krause",
+                    "PER",
+                    869,
+                    877
+                ]
+            ]
+        },
+        {
+            "id": "BKW-K059-017-001-001",
             "sender": "Krause",
             "entities": [
                 [
                     "Rostock",
                     "LOC",
-                    5,
-                    12
+                    20,
+                    27
                 ],
                 [
-                    "15. Juli\r\n1920",
+                    "30. I. 98",
                     "EVENT",
-                    27,
-                    41
+                    42,
+                    51
                 ],
                 [
-                    "Prisannewitz",
+                    "Augustenstr. 116 I.",
                     "LOC",
-                    59,
-                    71
+                    67,
+                    86
                 ],
                 [
-                    "Zeez b.  Schwaan",
-                    "LOC",
-                    84,
-                    100
+                    "Herr Doctor",
+                    "PER",
+                    128,
+                    139
                 ],
                 [
-                    "18. 11.1898",
+                    "Wenn die Tage kürzer werden",
                     "EVENT",
-                    115,
-                    126
+                    277,
+                    304
                 ],
                 [
-                    "10. 7. 1901",
+                    "die Leute auf dem Lande",
+                    "PER",
+                    325,
+                    348
+                ],
+                [
+                    "Abends",
                     "EVENT",
-                    144,
-                    155
-                ],
-                [
-                    "Öttelin b. Bützow",
-                    "LOC",
-                    171,
-                    188
-                ],
-                [
-                    "Niendorf b. Schwaan",
-                    "LOC",
-                    201,
-                    220
-                ],
-                [
-                    "3.4.1899",
-                    "EVENT",
-                    235,
-                    243
-                ],
-                [
-                    "7.5. 1899",
-                    "EVENT",
-                    261,
-                    270
-                ],
-                [
-                    "Ahrenshof",
-                    "LOC",
-                    288,
-                    297
-                ],
-                [
-                    "Boitin b. Bützow",
-                    "LOC",
-                    310,
-                    326
-                ],
-                [
-                    "30.8.1900",
-                    "EVENT",
-                    341,
-                    350
-                ],
-                [
-                    "3.6.1903",
-                    "EVENT",
-                    367,
-                    375
-                ],
-                [
-                    "Dändorf",
-                    "LOC",
-                    391,
-                    398
-                ],
-                [
-                    "16.4.1906",
-                    "EVENT",
-                    412,
-                    421
-                ],
-                [
-                    "Kessin",
-                    "LOC",
                     437,
                     443
                 ],
                 [
-                    "13./11. 1898",
+                    "Werden die\r\nTage dagegen länger",
                     "EVENT",
-                    457,
-                    469
+                    491,
+                    522
                 ],
                 [
-                    "Öttelin",
-                    "LOC",
-                    485,
-                    492
-                ],
-                [
-                    "27/10. 1901",
-                    "EVENT",
-                    506,
-                    517
-                ],
-                [
-                    "b. Bützow",
-                    "LOC",
-                    533,
-                    542
-                ],
-                [
-                    "Schwaan",
-                    "LOC",
-                    605,
-                    612
-                ],
-                [
-                    "Bützow",
-                    "LOC",
-                    626,
-                    632
-                ],
-                [
-                    "Schwanenköpfe",
-                    "ANIMAL",
-                    680,
-                    693
-                ],
-                [
-                    "Föhre bei Schwerin",
-                    "LOC",
-                    731,
-                    749
-                ],
-                [
-                    "Hahnenköpfe",
-                    "ANIMAL",
-                    773,
-                    784
-                ],
-                [
-                    "25.9.1906",
-                    "EVENT",
-                    863,
-                    872
-                ],
-                [
-                    "Gänse",
-                    "ANIMAL",
-                    1002,
-                    1007
-                ],
-                [
-                    "Mulapen",
-                    "ANIMAL",
-                    1042,
-                    1049
-                ],
-                [
-                    "Mulapen",
-                    "ANIMAL",
-                    1105,
-                    1112
-                ],
-                [
-                    "Pferdeköpfe",
-                    "ANIMAL",
-                    1136,
-                    1147
-                ],
-                [
-                    "Pferdeköpfe",
-                    "ANIMAL",
-                    1260,
-                    1271
-                ],
-                [
-                    "Pferdekopf",
-                    "ANIMAL",
-                    1391,
-                    1401
-                ],
-                [
-                    "Pferdeköpfe",
-                    "ANIMAL",
-                    1427,
-                    1438
-                ],
-                [
-                    "Pferdeköpfe",
-                    "ANIMAL",
-                    1492,
-                    1503
-                ],
-                [
-                    "Gehlsdorf",
-                    "LOC",
-                    1651,
-                    1660
-                ],
-                [
-                    "10.10 1892",
-                    "EVENT",
-                    1674,
-                    1684
-                ],
-                [
-                    "Boitin b. Bützow",
-                    "LOC",
-                    1714,
-                    1730
-                ],
-                [
-                    "3.6.1903",
-                    "EVENT",
-                    1745,
-                    1753
-                ],
-                [
-                    "Börgerende b. Doberan",
-                    "LOC",
-                    1769,
-                    1790
-                ],
-                [
-                    "Prisannewitz",
-                    "LOC",
-                    1803,
-                    1815
-                ],
-                [
-                    "18/11. 1898",
-                    "EVENT",
-                    1829,
-                    1840
-                ],
-                [
-                    "24.8.1902",
-                    "EVENT",
-                    1857,
-                    1866
-                ],
-                [
-                    "Bargeshagen",
-                    "LOC",
-                    1892,
-                    1903
-                ],
-                [
-                    "Börgerende",
-                    "LOC",
-                    1921,
-                    1931
-                ],
-                [
-                    "26. 8. 1901",
-                    "EVENT",
-                    1946,
-                    1957
-                ],
-                [
-                    "Doberan",
-                    "LOC",
-                    1976,
-                    1983
-                ],
-                [
-                    "24. 8. 1902",
-                    "EVENT",
-                    1998,
-                    2009
-                ],
-                [
-                    "Boitin bei Bützow",
-                    "LOC",
-                    2025,
-                    2042
-                ],
-                [
-                    "Steinhagen",
-                    "LOC",
-                    2055,
-                    2065
-                ],
-                [
-                    "Prisannewitz",
-                    "LOC",
-                    2078,
-                    2090
-                ],
-                [
-                    "18./11. 1898",
-                    "EVENT",
-                    2104,
-                    2116
-                ],
-                [
-                    "3. 6. 1903",
-                    "EVENT",
-                    2133,
-                    2143
-                ],
-                [
-                    "1898",
-                    "EVENT",
-                    2160,
-                    2164
-                ],
-                [
-                    "Kessin",
-                    "LOC",
-                    2179,
-                    2185
-                ],
-                [
-                    "13/11. 1819",
-                    "EVENT",
-                    2199,
-                    2210
-                ],
-                [
-                    "Kessin",
-                    "LOC",
-                    2224,
-                    2230
-                ],
-                [
-                    "13. 11. 1803",
-                    "EVENT",
-                    2244,
-                    2256
-                ],
-                [
-                    "Dr. L Krause",
+                    "Düvel",
                     "PER",
-                    2271,
-                    2283
+                    757,
+                    762
                 ],
                 [
-                    "WossiDiA",
-                    "ORG",
-                    2299,
-                    2307
+                    "Kassier",
+                    "PER",
+                    840,
+                    847
                 ],
                 [
-                    "UB",
-                    "ORG",
-                    2320,
-                    2322
+                    "Der zufällig anwesende Sä-\r\nger",
+                    "PER",
+                    995,
+                    1026
+                ],
+                [
+                    "einer der Leute",
+                    "PER",
+                    1083,
+                    1098
                 ]
             ]
         },
         {
-            "id": "BKW-K059-004-001-001",
+            "id": "BKW-K059-017-001-002",
             "sender": "Krause",
             "entities": [
                 [
-                    "Deutsche Reichspost",
-                    "ORG",
-                    22,
-                    41
+                    "de Fru",
+                    "PER",
+                    215,
+                    221
                 ],
                 [
-                    "Herrn Oberlehrer R. Wossidlo",
+                    "de Avkat",
+                    "PER",
+                    315,
+                    323
+                ],
+                [
+                    "Eisfeldt",
+                    "PER",
+                    389,
+                    397
+                ],
+                [
+                    "Die-\r\ndrichshagen b. Warnemünde",
+                    "LOC",
+                    603,
+                    634
+                ],
+                [
+                    "unser Küster",
+                    "PER",
+                    827,
+                    839
+                ]
+            ]
+        },
+        {
+            "id": "BKW-K059-017-001-003",
+            "sender": "Krause",
+            "entities": [
+                [
+                    "an bestimmten Tagen um Neujahr",
+                    "EVENT",
+                    25,
+                    55
+                ],
+                [
+                    "Rostock",
+                    "LOC",
+                    134,
+                    141
+                ],
+                [
+                    "6 Tage vor und 6 Tage nach Neujahr",
+                    "EVENT",
+                    219,
+                    253
+                ],
+                [
+                    "6 Tage vor Neujahr",
+                    "EVENT",
+                    321,
+                    339
+                ],
+                [
+                    "Rostock",
+                    "LOC",
+                    435,
+                    442
+                ],
+                [
+                    "Toitenwinkel",
+                    "LOC",
+                    505,
+                    517
+                ],
+                [
+                    "Rost. Ztg.",
+                    "ORG",
+                    543,
+                    553
+                ],
+                [
+                    "12 Dec. 1897",
+                    "EVENT",
+                    570,
+                    582
+                ],
+                [
+                    "Neuenkirchen bei Bützow",
+                    "LOC",
+                    834,
+                    857
+                ],
+                [
+                    "hiesigen Lehrers Brandt vom Gymnasium (Felix\r\nStillfried",
+                    "PER",
+                    897,
+                    953
+                ],
+                [
+                    "Schönberg u. Gressow",
+                    "LOC",
+                    1071,
+                    1091
+                ],
+                [
+                    "Rost. Ztg.",
+                    "ORG",
+                    1118,
+                    1128
+                ],
+                [
+                    "26. Nov. 1897",
+                    "EVENT",
+                    1153,
+                    1166
+                ],
+                [
+                    "Schönberg",
+                    "LOC",
+                    1185,
+                    1194
+                ],
+                [
+                    "24.\r\nNov.",
+                    "EVENT",
+                    1209,
+                    1218
+                ],
+                [
+                    "1880",
+                    "EVENT",
+                    1267,
+                    1271
+                ],
+                [
+                    "Bülow",
+                    "LOC",
+                    1324,
+                    1329
+                ],
+                [
+                    "eines fahrenden Schülers",
+                    "PER",
+                    1360,
+                    1384
+                ],
+                [
+                    "durch\r\nPommern und Mecklenburg",
+                    "LOC",
+                    1396,
+                    1426
+                ],
+                [
+                    "1590",
+                    "EVENT",
+                    1440,
+                    1444
+                ],
+                [
+                    "Frankfurt a/O.",
+                    "LOC",
+                    1531,
+                    1545
+                ]
+            ]
+        },
+        {
+            "id": "BKW-K059-017-001-004",
+            "sender": "Krause",
+            "entities": [
+                [
+                    "Franck",
+                    "PER",
+                    40,
+                    46
+                ],
+                [
+                    "Dorfe Kleinmühle (in\r\nPommern)",
+                    "LOC",
+                    78,
+                    108
+                ],
+                [
+                    "Thamm-\r\n„garten",
+                    "LOC",
+                    166,
+                    181
+                ],
+                [
+                    "Pfarrherren",
+                    "PER",
+                    205,
+                    216
+                ],
+                [
+                    "Riebnitz",
+                    "LOC",
+                    305,
+                    313
+                ],
+                [
+                    "Ostsee",
+                    "LOC",
+                    492,
+                    498
+                ],
+                [
+                    "v. Bülow",
+                    "PER",
+                    659,
+                    667
+                ],
+                [
+                    "Dam-\r\n„garten",
+                    "LOC",
+                    738,
+                    751
+                ],
+                [
+                    "Franck",
+                    "PER",
+                    885,
+                    891
+                ],
+                [
+                    "In dieser Landschaft [_. i. Mecklenburg]",
+                    "LOC",
+                    912,
+                    952
+                ],
+                [
+                    "Vineta",
+                    "LOC",
+                    998,
+                    1004
+                ],
+                [
+                    "India",
+                    "LOC",
+                    1089,
+                    1094
+                ],
+                [
+                    "Griechen",
+                    "LOC",
+                    1107,
+                    1115
+                ],
+                [
+                    "Reuſsen",
+                    "LOC",
+                    1128,
+                    1135
+                ],
+                [
+                    "Preuſsen",
+                    "LOC",
+                    1150,
+                    1158
+                ],
+                [
+                    "den König aus Dännemark",
+                    "PER",
+                    1300,
+                    1323
+                ],
+                [
+                    "v. Bülow",
+                    "PER",
+                    1379,
+                    1387
+                ],
+                [
+                    "der Wunderstadt Vineta",
+                    "LOC",
+                    1445,
+                    1467
+                ],
+                [
+                    "Vineta",
+                    "LOC",
+                    1519,
+                    1525
+                ],
+                [
+                    "in Mecklenburg",
+                    "LOC",
+                    1538,
+                    1552
+                ],
+                [
+                    "Franck",
+                    "PER",
+                    1589,
+                    1595
+                ],
+                [
+                    "Ribnitz",
+                    "LOC",
+                    1663,
+                    1670
+                ],
+                [
+                    "Damgarten",
+                    "LOC",
+                    1686,
+                    1695
+                ],
+                [
+                    "Michael Franck",
+                    "PER",
+                    1778,
+                    1792
+                ],
+                [
+                    "Rethra",
+                    "LOC",
+                    1828,
+                    1834
+                ],
+                [
+                    "Rethra",
+                    "LOC",
+                    1854,
+                    1860
+                ],
+                [
+                    "ein Tempel des Abgotts Radagast",
+                    "LOC",
+                    1949,
+                    1980
+                ]
+            ]
+        },
+        {
+            "id": "BKW-K059-017-001-005",
+            "sender": "Krause",
+            "entities": [
+                [
+                    "in dem\r\n„stargartischen Lande",
+                    "LOC",
+                    145,
+                    174
+                ],
+                [
+                    "Franck",
+                    "PER",
+                    225,
+                    231
+                ],
+                [
+                    "von Pommern",
+                    "LOC",
+                    243,
+                    254
+                ],
+                [
+                    "über Ribnitz",
+                    "LOC",
+                    266,
+                    278
+                ],
+                [
+                    "nach\r\nRostock",
+                    "LOC",
+                    297,
+                    310
+                ],
+                [
+                    "in die nordischen Reiche",
+                    "LOC",
+                    384,
+                    408
+                ],
+                [
+                    "in Rostock",
+                    "LOC",
+                    474,
+                    484
+                ],
+                [
+                    "Ein Bassewitz von Hohen=Lukow",
+                    "PER",
+                    517,
+                    546
+                ],
+                [
+                    "in Berendshagen",
+                    "LOC",
+                    610,
+                    625
+                ],
+                [
+                    "H Krause",
+                    "PER",
+                    768,
+                    776
+                ],
+                [
+                    "25. Augus1 1897",
+                    "EVENT",
+                    791,
+                    806
+                ],
+                [
+                    "Stuer bei Plau",
+                    "LOC",
+                    991,
+                    1005
+                ],
+                [
+                    "8. August 1787",
+                    "EVENT",
+                    1029,
+                    1043
+                ],
+                [
+                    "Meckl.=Schwerin",
+                    "LOC",
+                    1088,
+                    1103
+                ],
+                [
+                    "1787",
+                    "EVENT",
+                    1125,
+                    1129
+                ],
+                [
+                    "den gemeinen Mann",
+                    "PER",
+                    1376,
+                    1393
+                ],
+                [
+                    "Hirten",
+                    "PER",
+                    1416,
+                    1422
+                ],
+                [
+                    "Schäfer",
+                    "PER",
+                    1438,
+                    1445
+                ]
+            ]
+        },
+        {
+            "id": "BKW-K059-017-001-006",
+            "sender": "Krause",
+            "entities": [
+                [
+                    "von den Groſsvätern",
+                    "PER",
+                    97,
+                    116
+                ],
+                [
+                    "vom October v. J.",
+                    "EVENT",
+                    193,
+                    210
+                ],
+                [
+                    "einigen unterirdischen Gängen in Rostock",
+                    "LOC",
+                    255,
+                    295
+                ],
+                [
+                    "Rathskeller",
+                    "LOC",
+                    365,
+                    376
+                ],
+                [
+                    "der alten Scharfrichterei in der Kibbenibber Str",
+                    "LOC",
+                    394,
+                    442
+                ],
+                [
+                    "Zolllager der Rathsweinhandlung",
+                    "LOC",
+                    489,
+                    520
+                ],
+                [
+                    "im Rathskeller",
+                    "LOC",
+                    627,
+                    641
+                ],
+                [
+                    "nach 1862",
+                    "EVENT",
+                    714,
+                    723
+                ],
+                [
+                    "neben\r\ndem östl. Kellerportal",
+                    "LOC",
+                    737,
+                    766
+                ],
+                [
+                    "aus\r\ndem Rathskeller",
+                    "LOC",
+                    904,
+                    924
+                ],
+                [
+                    "den neuen Markt",
+                    "LOC",
+                    953,
+                    968
+                ],
+                [
+                    "in den letzten 20 Jahren",
+                    "EVENT",
+                    1056,
+                    1080
+                ],
+                [
+                    "von Rostockern",
+                    "PER",
+                    1100,
+                    1114
+                ],
+                [
+                    "Die alte Frohnerei in\r\nder Kibbenibber Str",
+                    "LOC",
+                    1194,
+                    1236
+                ],
+                [
+                    "verstorbenen\r\nBürgermeisters Dr. Giese",
+                    "PER",
+                    1270,
+                    1308
+                ],
+                [
+                    "von seinem Haus",
+                    "LOC",
+                    1361,
+                    1376
+                ]
+            ]
+        },
+        {
+            "id": "BKW-K059-017-001-007",
+            "sender": "Krause",
+            "entities": [
+                [
+                    "Gang zum Rathhause",
+                    "LOC",
+                    25,
+                    43
+                ],
+                [
+                    "Herr Lehrer Angerstein",
                     "PER",
                     69,
-                    97
+                    91
                 ],
                 [
-                    "Waren i/ M.",
+                    "Ludwigsluster Wochenblatt",
+                    "ORG",
+                    127,
+                    152
+                ],
+                [
+                    "in den Jahren 1853-57",
+                    "EVENT",
+                    166,
+                    187
+                ],
+                [
+                    "Herr Angerstein",
+                    "PER",
+                    247,
+                    262
+                ],
+                [
+                    "Perlin",
                     "LOC",
-                    113,
-                    124
+                    312,
+                    318
+                ],
+                [
+                    "eines\r\ndortigen Bauern",
+                    "PER",
+                    382,
+                    404
+                ],
+                [
+                    "aus dem brennenden Gehöfte",
+                    "LOC",
+                    477,
+                    503
+                ],
+                [
+                    "in den Dorfteich",
+                    "LOC",
+                    515,
+                    531
+                ],
+                [
+                    "in den Dorfteich",
+                    "LOC",
+                    598,
+                    614
+                ],
+                [
+                    "Herr Angerstein",
+                    "PER",
+                    701,
+                    716
+                ],
+                [
+                    "von dem jetzigen Küster\r\nWiedow",
+                    "PER",
+                    792,
+                    823
+                ],
+                [
+                    "in Baumgarten bei Bützow",
+                    "LOC",
+                    835,
+                    859
+                ],
+                [
+                    "Hrn. Eisfeldt",
+                    "PER",
+                    988,
+                    1001
+                ],
+                [
+                    "L Krause",
+                    "PER",
+                    1091,
+                    1099
                 ]
             ]
         }

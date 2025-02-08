@@ -1,58 +1,202 @@
-Die O
-Kartenvorlage O
-von O
-Peltz I-PER
-ist O
-in O
-300 O
-Ex O
-vervielfältigt, O
-wurde O
-jedem O
-Obmann I-PER
-zugesandt O
-und O
-steht O
-Ihnen O
-weiter O
-zur O
-Verfügung, O
-einige O
-Exemplare O
-folgen O
-schon O
-heute I-EVENT
+1899 I-EVENT
 . O
 
-Ich O
-werde O
-sehen, O
-dasſ O
+K/I O
+- O
+K428,2 O
+„Sik O
+hür O
+de O
+Krei O
+wol O
+hausten“ O
+= O
 ich O
-das O
-Peitschenlied O
-der O
-Bramower I-PER
+vermäthe O
+etwas O
+. O
+
+Von O
+beifolg O
+Beitrag O
+ersehe O
+ich O
+keine O
+Unterschrift, O
+soll O
+man O
+bei O
+Haberland I-PER
+nachforschen O
+? O
+
+Pferdeköpfe I-ANIMAL
 , O
-sowie O
-den O
-Briestower I-PER
-im O
-Stadttheater I-LOC
-noch O
-vollständig O
-auftreibe O
+bei O
+denen O
+das O
+Aussägen O
+der O
+Ohren O
+vergessen O
+? O
+
+Geinitz I-PER
+KII-0246-5 O
+
+1819 I-EVENT
+Kessin I-LOC
+13 B-EVENT
 . O
 
-Bülow I-PER
-bemerkt O
-hierzu O
+1898 I-EVENT
+24 B-EVENT
+. O
+
+Die O
+eine O
+meinte, O
+man O
+dürfe O
+6 B-EVENT
+Tage I-EVENT
+vor I-EVENT
+und I-EVENT
+6 I-EVENT
+Tage I-EVENT
+nach I-EVENT
+Neujahr I-EVENT
+nicht O
+waschen, O
+während O
+die O
+andere O
+dies O
+nur O
+für O
+die O
+6 I-EVENT
+Tage I-EVENT
+vor I-EVENT
+Neujahr I-EVENT
+glaubte O
+. O
+
+11 O
+. O
+
+Dobbin B-LOC
+i I-LOC
+. O
+
+), O
+wenn O
+sie O
+am O
+(Pfingst I-EVENT
+= O
+? O
+
+v O
+. O
+
+1897 I-EVENT
+sub O
+„Schönberg I-LOC
+, O
+24 B-EVENT
+. O
+
+95 I-EVENT
+. O
+
+Sollte O
 in O
-einer O
-Anm O
+meiner O
+heutigen O
+Sendung O
+einiges O
+von O
+dem O
+kürzlich O
+Übersandten O
+noch O
+einmal O
+ent- O
+halten O
+sein, O
+so O
+bitte O
+ich O
+dies O
+zu O
+entschuldigen O
 . O
 
-5 B-EVENT
+ich O
+habe O
+ihm O
+Ihre O
+Wünsche O
+mitgeteilt, O
+aber O
+noch O
+nicht O
+die O
+von O
+Köpke I-PER
+-Teterow I-LOC
+Geist I-PER
+wird O
+hoff O
+einen O
+Mann O
+für O
+die O
+Müritz I-LOC
+empfehlen O
+. O
+
+F B-PER
+. O
+
+(Beilag O
+zu O
+den O
+Rostock I-LOC
+schen O
+Nachrichten) O
+1768 I-EVENT
+, O
+S O
+. O
+
+Die O
+eingelaufenen O
+Beiträge O
+schicke O
+ich O
+anbei O
+an O
+Herrn B-PER
+Dr I-PER
+Witte I-PER
+: O
+Strelitz I-LOC
+ist O
+noch O
+nicht O
+geordnet O
+. O
+
+“ O
+v B-PER
+. O
+
+Schriften, O
+Münzen, O
+Verord O
+u O
 . O
 
 Ebenso O
@@ -79,35 +223,150 @@ gezeichnet O
 habe O
 . O
 
-Ermahnung O
-eines O
-Unentschiedenen, O
-der O
+1787 I-EVENT
+p O
+. O
+
+F B-PER
+. O
+
+Die O
+„Anweisung“ O
+wird O
+3 O
+Seiten O
+ausmachen, O
+auf O
+die O
+vierte O
+sollen O
+Die O
+„Beispiele“ O
+. O
+
+Die O
+noch O
+vorhandenen O
+Lücken O
+wollen O
+wir O
 sich O
-alles O
-beim O
-Spiel O
+allmälich O
+von O
+selbst O
+füllen O
+lassen O
+(mitteleres B-LOC
+Meckl I-LOC
+) O
+Bestens O
+grüssend O
+Ihrergebener O
+E I-PER
+Geinitz I-PER
+KII-0246-9 O
+
+ist O
+zweifelhaft, O
+doch O
+habe O
+ich O
+Aussicht O
+auch O
+den O
+mit O
+der O
+Zeit O
+noch O
 zu O
-lange O
-überlegt O
+erfahren O
+. O
+
+An O
+beiden O
+Giebeln O
+des O
+Hauses O
 . O
 
 “ O
-— O
-Wo O
-Vineta I-LOC
-in B-LOC
-Mecklenburg I-LOC
-gelegen O
-haben O
-soll, O
-sagt O
-Franck I-PER
-nicht O
+- O
+Eine B-PER
+alte I-PER
+Frau I-PER
+zu I-PER
+Zülow, I-LOC
+Parochie I-LOC
+Stralendorf I-LOC
+, O
+stand O
+früher I-EVENT
+(vor I-EVENT
+ca I-EVENT
+40 I-EVENT
+Jahren) I-EVENT
+in O
+dem O
+Rufe, O
+das O
+„Dod O
+kloppen“ O
+erfolgreich O
+ausüben O
+zu O
+können O
 . O
 
-Abwarten O
-! O
+11 B-EVENT
+. O
+
+Anrede O
+an O
+ei- O
+nen O
+Miſsgünstigen O
+. O
+
+Diese O
+Notiz O
+ist O
+entnommen: O
+Chronika O
+der O
+Stadt O
+Rostock I-LOC
+von O
+1266-1664 I-EVENT
+(Handschrift O
+aus O
+dem O
+18 B-EVENT
+. O
+
+März B-EVENT
+94 I-EVENT
+über O
+einen O
+früheren O
+hiesigen O
+Brauch O
+erzählen O
+hörte O
+. O
+
+Die O
+Karten O
+sind O
+bestellt, O
+fragen O
+Sie O
+aber O
+lieber O
+nochmal O
+bei O
+Witte I-PER
+an O
+. O
 
 Mich O
 halten O
@@ -137,300 +396,40 @@ Chausſee I-LOC
 d I-LOC
 . O
 
-Die O
-Karten O
-sind O
-bestellt, O
-fragen O
-Sie O
-aber O
-lieber O
-nochmal O
-bei O
-Witte I-PER
-an O
-. O
-
 11 B-EVENT
 . O
 
-K/I O
-- O
-K O
-416 O
-. O
-
-S O
-. O
-
-Die B-LOC
-alte I-LOC
-Frohnerei I-LOC
-in I-LOC
-der I-LOC
-Kibbenibber I-LOC
-Str I-LOC
-war O
-das I-LOC
-Haus I-LOC
-des I-LOC
-verstorbenen I-PER
-Bürgermeisters I-PER
-Dr I-PER
-. O
-
-K/I O
-– O
-K416,1 O
-Rostock I-LOC
-, O
-14 B-EVENT
-. O
-
-Mecklenburg] I-LOC
-ist O
-auch O
-„nicht O
-weit O
-von O
-der O
-See O
-Vineta I-LOC
-aufgerichtet, O
-welche O
-eine O
-herrliche O
-Gewerbstadt O
-„ist O
-gewesen, O
-dahin O
-aus O
-India I-LOC
-, O
-Griechen I-LOC
-, O
-Reuſsen I-LOC
-u O
-. O
-
-ja O
-von O
-Lus O
-un O
-Floh O
-. O
-
-1906 I-EVENT
-rechter O
-neuerer O
-Zierrat O
-. O
-
-98 I-EVENT
-. O
-
-7 O
-. O
-
+Anbei O
+übersende O
 ich O
-habe O
-ihm O
-Ihre O
-Wünsche O
-mitgeteilt, O
-aber O
+Ihnen O
 noch O
-nicht O
-die O
-von O
-Köpke I-PER
--Teterow I-LOC
-Geist I-PER
-wird O
-hoff O
-einen O
-Mann O
-für O
-die O
-Müritz I-LOC
-empfehlen O
-. O
-
-10 O
-. O
-
-Alte O
-Hahnenköpfe I-ANIMAL
-am O
-Hintergiebel O
-eines O
-Strohdaches, O
-am O
-Vordergiebel O
-schon O
-auf O
-25 B-EVENT
-. O
-
-des O
-hiesigen B-PER
-Lehrers I-PER
-Brandt I-PER
-vom I-PER
-Gymnasium I-PER
-(Felix I-PER
-Stillfried I-PER
-)] O
-soll, O
-wie O
-mir O
-hier O
-erzählt O
-wurde, O
-viel O
-Volksthümliche O
+einige O
+Sagen, O
 Redensarten O
-kennen O
+etc O
 . O
 
-Alles O
-frühere O
-lege O
-ich O
-bei, O
-mit O
-Bitte O
-um O
-baldige O
-Rückgabe O
-. O
-
-in O
-der O
-hiesigen O
-Universitätsbibliothek I-LOC
-5 O
-. O
-
-3 O
-4 O
-. O
-
-Bülow I-PER
-bemerkt O
-dazu: O
-„die O
-gewöhnliche O
-Erzählung O
-von O
-der B-LOC
-Wunderstadt I-LOC
-Vineta I-LOC
-, O
-nur O
-an O
-einen O
-andern O
-Ort O
-verlegt O
-. O
-
-Von O
-beifolg O
-Beitrag O
-ersehe O
-ich O
-keine O
-Unterschrift, O
-soll O
-man O
-bei O
-Haberland I-PER
-nachforschen O
-? O
-
-1 O
-. O
-
-So O
-hat O
-Krause I-PER
-und O
-Arnswaldt I-PER
-sehr O
-grosse B-LOC
-Bezirke I-LOC
-, O
-andere, O
-z O
-. O
-
-Was O
-7 O
-darstellen O
-soll O
-ist O
-mir O
-nicht O
-klar O
-geworden O
-. O
-
-Taddel I-PER
-, O
-Einige O
-Historisch-Mecklenbur= B-LOC
-gische I-LOC
-Anmerkungen O
-über O
-die O
-abergläubische O
-Entweihung O
+Bülow I-LOC
+„Wanderungen O
+eines B-PER
+fahrenden I-PER
+Schülers I-PER
+durch I-LOC
+Pommern I-LOC
+und I-LOC
+Mecklenburg I-LOC
+1590 I-EVENT
+“ O
+aus O
+einer O
+Reisebeschrei- O
+bung O
 des O
-heil I-EVENT
+stud I-PER
 . O
 
-Im O
-Bericht O
-über O
-die B-EVENT
-Schöffengerichtssitzung I-EVENT
-v I-EVENT
-. O
-
-Knütttüch O
-in O
-´n O
-Sand O
-. O
-
-Der O
-† B-PER
-alte I-PER
-Kobrow I-PER
-sagte O
-mal O
-auf O
-meines I-PER
-Vaters I-PER
-Frage, O
-wo O
-all O
-die O
-alten O
-Geschichten O
-herstammten O
-. O
-
-Schwanenköpfe I-ANIMAL
-an O
-einem O
-alten O
-Hause O
-. O
-
-Boitin B-LOC
-b I-LOC
+10 B-EVENT
 . O
 
 K/I O
@@ -468,6 +467,239 @@ groſsen O
 See O
 . O
 
+Taddel's I-PER
+in O
+den O
+Gemeinnützigen O
+Aufsätzen O
+aus O
+den O
+Wissenschaften O
+für O
+alle O
+Stände O
+. O
+
+Beitr O
+. O
+
+Alte O
+Hahnenköpfe I-ANIMAL
+am O
+Hintergiebel O
+eines O
+Strohdaches, O
+am O
+Vordergiebel O
+schon O
+auf O
+25 B-EVENT
+. O
+
+Pigne O
+Pikas O
+war O
+ein O
+Hühnerhund O
+. O
+
+Ich O
+werde O
+sehen, O
+dasſ O
+ich O
+das O
+Peitschenlied O
+der O
+Bramower I-PER
+, O
+sowie O
+den O
+Briestower I-PER
+im O
+Stadttheater I-LOC
+noch O
+vollständig O
+auftreibe O
+. O
+
+es O
+giebt O
+denselben O
+Lohn O
+für O
+weniger O
+Arbeit, O
+da O
+Abends I-EVENT
+früher O
+Feierabend O
+gemacht O
+wird O
+. O
+
+Misſachtende O
+Äuſserung O
+über O
+Rentje O
+! O
+
+Bützow I-LOC
+30 B-EVENT
+. O
+
+Anbei O
+der O
+Entwurf O
+von O
+Peltz I-PER
+. O
+
+Geld O
+mit O
+. O
+
+Picus O
+der O
+Waldspecht O
+. O
+
+Ergebenst O
+Geinitz I-PER
+KII-0246-7 O
+
+: O
+„Die O
+gewaltsame O
+Trennung O
+von O
+Dam- B-LOC
+„garten I-LOC
+und O
+Ribnitz O
+durch O
+die O
+Fluth O
+gehört O
+zu O
+den O
+historisch O
+nicht O
+verbürgten O
+Er- O
+„zählungen O
+des O
+Reisenden O
+. O
+
+Sie O
+kamen O
+in O
+Trupps O
+von O
+5-6, O
+jeder O
+mit O
+einer O
+kurz- O
+stieligen O
+langen O
+Schlittenpeitsche, O
+stellten O
+sich O
+dann O
+in O
+den O
+Strasſen O
+im O
+Kreise O
+auf O
+und O
+knallten O
+. O
+
+9 B-EVENT
+. O
+
+1901 I-EVENT
+. O
+
+Jahrb O
+. O
+
+“ O
+„Dat O
+will O
+´n O
+wie O
+woll O
+kriegen, O
+segt O
+de B-PER
+Avkat I-PER
+, O
+dor O
+meent O
+he O
+dat O
+10 O
+. O
+
+151-164 O
+. O
+
+Knütttüch O
+in O
+´n O
+Sand O
+. O
+
+/11 B-EVENT
+. O
+
+Die O
+Kartenvorlage O
+von O
+Peltz I-PER
+ist O
+in O
+300 O
+Ex O
+vervielfältigt, O
+wurde O
+jedem O
+Obmann I-PER
+zugesandt O
+und O
+steht O
+Ihnen O
+weiter O
+zur O
+Verfügung, O
+einige O
+Exemplare O
+folgen O
+schon O
+heute I-EVENT
+. O
+
+So O
+hat O
+Krause I-PER
+und O
+Arnswaldt I-PER
+sehr O
+grosse B-LOC
+Bezirke I-LOC
+, O
+andere, O
+z O
+. O
+
+III O
+Abth O
+. O
+
 Möchten O
 Sie O
 die O
@@ -485,258 +717,133 @@ Vorschläge O
 aufschreiben O
 ? O
 
-Die O
-„Anweisung“ O
-wird O
-3 O
-Seiten O
-ausmachen, O
-auf O
-die O
-vierte O
-sollen O
-Die O
-„Beispiele“ O
-. O
-
-Städte O
-erwähnt O
-18 O
-. O
-
 Seen I-LOC
 fehlen O
 noch O
 Adressen O
 . O
 
-18 O
-. O
-
-h O
-. O
-
-(Forstaufseher B-PER
-Holtz I-PER
-zu I-PER
-Die- I-LOC
-drichshagen I-LOC
-b I-LOC
-. O
-
-zur O
-Geschichte O
-u O
-. O
-
-Die O
-eingelaufenen O
-Beiträge O
-schicke O
-ich O
-anbei O
-an O
-Herrn B-PER
-Dr I-PER
-Witte I-PER
-: O
-Strelitz I-LOC
-ist O
-noch O
-nicht O
-geordnet O
-. O
-
-Verf O
-. O
-
-„Fix O
-oder O
-nix“ O
-! O
-
-Ztg B-ORG
-. O
-
-11 B-EVENT
-. O
-
-oder O
-Mulapen I-ANIMAL
-mit O
-abgebrochenen O
-Ohren O
-? O
-
-08 I-EVENT
-. O
-
-Errebenst O
-4 B-EVENT
-. O
-
-Die O
-eine O
-meinte, O
-man O
-dürfe O
-6 B-EVENT
-Tage I-EVENT
-vor I-EVENT
-und I-EVENT
-6 I-EVENT
-Tage I-EVENT
-nach I-EVENT
-Neujahr I-EVENT
-nicht O
-waschen, O
-während O
-die O
-andere O
-dies O
-nur O
-für O
-die O
-6 I-EVENT
-Tage I-EVENT
-vor I-EVENT
-Neujahr I-EVENT
-glaubte O
-. O
-
-/11 B-EVENT
-. O
-
-Institut I-ORG
-, O
-Schulsammlung I-ORG
-und O
-namentlich O
-das O
-Ratsarchiv I-ORG
-hier O
-abgegeben O
-habe O
-. O
-
-Taddel's I-PER
-in O
-den O
-Gemeinnützigen O
-Aufsätzen O
-aus O
-den O
-Wissenschaften O
-für O
-alle O
-Stände O
-. O
-
-24 B-EVENT
-. O
-
-Ich O
-werde O
-einmal O
-sehen, O
-ob O
-sich O
-vielleicht O
-der B-PER
-Organist I-PER
-Langermann I-PER
-zu I-PER
-Cammin I-LOC
-, O
-der O
-mir O
-zwar O
-persönlich O
-unbekannt O
-ist, O
-sich O
-aber, O
-wie O
-ich O
-weisſ, O
-für O
-die O
-dortigen O
-prähistor O
-. O
-
-An O
-beiden O
-Giebeln O
-des O
-Hauses O
-. O
-
-Schriften, O
-Münzen, O
-Verord O
-u O
-. O
-
-Ende O
-December O
-hörte O
-ich O
-bezüglich O
-des O
-_laubens, O
-daſs O
-13 O
-. O
-
-Rostock I-LOC
-30/1 B-EVENT
+Augus1 B-EVENT
+1897 I-EVENT
+) O
+21 O
 . O
 
 Beitr O
 . O
 
-Am O
-Schluss O
-müssen O
-wir O
-wohl O
-noch O
-auf O
-die O
-Sagenfrage O
-hinweisen O
-? O
+habe O
+ich O
+sub O
+N: O
+. O
 
-K/I O
-- O
-K O
-413,1 O
-Deutsche B-ORG
-Reichspost I-ORG
-Postkarte O
-An O
-Herrn I-PER
-Oberlehrer I-PER
-R I-PER
+1901 I-EVENT
+. O
+
+5 B-EVENT
+. O
+
+/11 B-EVENT
+. O
+
+“ O
+— O
+v B-PER
+. O
+
+10 O
+. O
+
+I B-EVENT
+. O
+
+6 B-EVENT
+. O
+
+Werden B-EVENT
+die I-EVENT
+Tage I-EVENT
+dagegen I-EVENT
+länger I-EVENT
+, O
+so O
+heisſt O
+es: O
+„uns O
+avkat O
+verspeelt“, O
+da O
+nun O
+für O
+denselben O
+Lohn O
+wieder O
+länger O
+gearbeitet O
+werden O
+musſ O
+. O
+
+L B-PER
+Krause I-PER
+. O
+
+14 O
+. O
+
+1 O
+. O
+
+Alles O
+frühere O
+lege O
+ich O
+bei, O
+mit O
+Bitte O
+um O
+baldige O
+Rückgabe O
 . O
 
 Urkunden O
 __ O
 . O
 
-Räthsel O
-sind O
-leider O
-nicht O
-darunter, O
-da O
-ich O
-dieselben O
-früher O
-nicht O
-beachtet O
-habe O
+2 O
+wieder O
+in O
+Vergessenheit O
+gerathen O
+. O
+
+18/19 O
+. O
+
+ganz O
+v O
+vorne O
+L B-PER
+. O
+
+Der B-PER
+junge I-PER
+Kehding=Prangendorf I-LOC
+, O
+nachdem O
+Sie O
+in O
+Ihrem O
+letzten O
+Briefe O
+fragen, O
+befindet O
+sich O
+zur O
+Zeit O
+als O
+cand O
 . O
 
 Die O
@@ -758,18 +865,68 @@ an O
 mich O
 . O
 
-B O
+Leider O
+ich O
+die O
+Nachricht O
+noch O
+sehr O
+lückenhaft O
 . O
 
-10 B-EVENT
-1892 I-EVENT
-10 O
+(Wir O
+treffen O
+alle O
+zu O
+ziemlich O
+gleicher O
+Zeit O
+ein O
+und O
+können O
+von O
+da O
+zusammen O
+zu O
+Herrn B-PER
+Peltz I-PER
+gehen) O
+Geinitz I-PER
 . O
 
-b B-LOC
+Errebenst O
+4 B-EVENT
 . O
 
-Nov B-EVENT
+WossiDiA I-ORG
+UB I-ORG
+
+Er O
+geht O
+Abends I-EVENT
+denn O
+auch O
+hin, O
+beschreibt O
+anschaulich O
+das O
+Gedränge O
+dann O
+das O
+Innere O
+und O
+den O
+Beginn O
+des O
+Stückes, O
+das O
+er O
+natürlich O
+alles O
+für O
+baare O
+Münze O
+hält O
 . O
 
 K/I-K O
@@ -787,141 +944,28 @@ Rostocker B-ORG
 Ztg I-ORG
 . O
 
-Ergebenst O
-Geinitz I-PER
-KII-0246-7 O
-
-8 B-EVENT
+J B-EVENT
 . O
 
-zu O
-den O
-Meckl B-LOC
+Ztg B-ORG
 . O
-
-Däuser O
-bauen O
-die O
-Häuser O
-. O
-
-Michael B-PER
-Franck I-PER
-aus I-PER
-Frankfurt I-LOC
-a/O I-LOC
-. O
-
-DiA O
 
 8 O
 . O
 
-6 O
+1902 I-EVENT
 . O
 
-an O
-je O
-einem O
-Hause O
+1906 I-EVENT
+rechter O
+neuerer O
+Zierrat O
 . O
 
-Die O
-Eingänge O
-habe O
-ich O
-weiter O
-gegeben, O
-weil O
-ich O
-die O
-Verantwortung O
-dafür O
-nicht O
-tragen O
-will O
-und O
-mir O
-das O
-Schweriner B-ORG
-Archiv I-ORG
-als O
-der O
-sicherste O
-Ort O
-erscheint O
-. O
-
-Aber O
-leider O
-habe O
-ich O
-da= O
-mals O
-nichts O
-notiert O
-und O
-so O
-sind O
-sie O
-alle O
-
-1899 I-EVENT
-. O
-
-130 O
-von O
-einer O
-Echiniten O
-art: O
-„Einige O
-nennen O
-sie O
-hier O
-Kardinals-Hüte O
-und O
-p O
-. O
-
-21/22 O
-neuere O
-Zierraterest O
-nur O
-gekreuzte O
-Bretter O
-. O
-
-Die O
-Arbeiten O
-für O
-Sammler I-PER
-und O
-Obmänner I-PER
-wachsen O
-enorm O
-und O
-nehmen O
-mir O
-viel O
-Zeit O
-. O
-
-Ihnen O
-dieser O
-Brauch O
-aber O
-bereits O
-bekannt, O
-oder O
-können O
-Sie O
-von O
-anderer O
-Seite O
-die O
-nöthigen O
-Ergänzungen O
-bezu O
-Richtigstellungen O
-erhalten O
+Mit O
+bestem O
+Grusſ O
+Hr B-PER
+L I-PER
+Krause I-PER
 . O

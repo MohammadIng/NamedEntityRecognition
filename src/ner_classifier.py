@@ -15,9 +15,9 @@ class NERClassifier:
     def __init__(self,
                  std_spacy = False,
                  std_flair = False,
-                 json_data_folder="json_data",
+                 json_data_folder="../json_data",
                  input_data_folder="../input_data",
-                 model_path="models/flair_model/",
+                 model_path="../models/flair_model/",
                  model_type="final-model.pt"):
 
         self.json_data_folder = json_data_folder

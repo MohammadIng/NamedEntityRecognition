@@ -10,7 +10,7 @@ class DataProcessor:
     def __init__(self):
         self.output_file = "../train_data/train.txt"
         self.base_data_folder = "../base_data"
-        self.train_data_folder = "train_data"
+        self.train_data_folder = "../train_data"
 
     def read(self, file_path):
         """
