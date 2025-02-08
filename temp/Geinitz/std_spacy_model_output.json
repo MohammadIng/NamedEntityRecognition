@@ -1,0 +1,431 @@
+{
+  "results": [
+    {
+      "id": "21776",
+      "sender": "Geinitz",
+      "text": "Rostock, 6. 11. 08\r\nDie Kommissionssitzung ist nunmehr auf\r\nSonnabend, d. 8. Nachm. nach 3 Uhr in Güstrow\r\nfestgesetzt. (Wir treffen alle zu ziemlich gleicher Zeit ein\r\nund können von da zusammen zu Herrn Peltz gehen)\r\nGeinitz.\r\nKII-2446-3",
+      "entities": [
+        [
+          "Rostock",
+          "LOC",
+          0,
+          7
+        ],
+        [
+          "Kommissionssitzung",
+          "LOC",
+          24,
+          42
+        ],
+        [
+          "Güstrow",
+          "LOC",
+          98,
+          105
+        ],
+        [
+          "Herrn Peltz",
+          "PER",
+          199,
+          210
+        ],
+        [
+          "Geinitz",
+          "LOC",
+          219,
+          226
+        ]
+      ]
+    },
+    {
+      "id": "21777",
+      "sender": "Geinitz",
+      "text": "Rostock, 23.2.08\r\nSehr geehrter Herr Dr.\r\nDie Arbeiten für Sammler und Obmänner wachsen enorm und nehmen\r\nmir viel Zeit. Eine klare Uebersicht über die Bezirke ist noch\r\nunmöglich, da noch viele Anfragen ausstehen und von anderen Gebieten\r\nkein Material vorliegt. Wen könnten wir z.B. für die Teterower\r\nGegend nehmen?und für Röbel, Dargun, Laage, Boizeburg\r\n\"ad \"Umkreis\": anderswar es nicht zu fassen, da eben nichts\r\ngenaues vorlag; das nähere ergab sich durch die Antworten. So\r\nhat Krause und Arnswaldt sehr grosse Bezirke, andere, z.B. Pastoren\r\nnur Kirchspiele oder Forsten. Ein Schema lässt sich nicht durch-\r\nführen.\r\nDie Karten sind bestellt, fragen Sie aber lieber nochmal bei Witte\r\nan. Nächste Woche kommt das Peltzsche Schema zur Versendung an\r\ndie Obmänner. In 2 Wochen denke ich die 1. Liste der Sammler und\r\nObmänner zu drucken und zu versenden.\r\nVon beifolg Beitrag ersehe ich keine Unterschrift, soll man bei\r\nHaberland nachforschen? Können Sie es übernehmen?\r\nBesten Gruss\r\nE Geinitz.\r\nKII-0246-4.\r\n",
+      "entities": [
+        [
+          "Rostock",
+          "LOC",
+          0,
+          7
+        ],
+        [
+          "Teterower",
+          "LOC",
+          293,
+          302
+        ],
+        [
+          "Röbel",
+          "LOC",
+          326,
+          331
+        ],
+        [
+          "Dargun",
+          "LOC",
+          333,
+          339
+        ],
+        [
+          "Laage",
+          "LOC",
+          341,
+          346
+        ],
+        [
+          "Boizeburg",
+          "LOC",
+          348,
+          357
+        ],
+        [
+          "Arnswaldt",
+          "LOC",
+          498,
+          507
+        ],
+        [
+          "Witte",
+          "PER",
+          688,
+          693
+        ],
+        [
+          "1. Liste der Sammler",
+          "MISC",
+          799,
+          819
+        ],
+        [
+          "beifolg",
+          "LOC",
+          868,
+          875
+        ],
+        [
+          "ersehe",
+          "PER",
+          884,
+          890
+        ],
+        [
+          "Haberland",
+          "PER",
+          929,
+          938
+        ],
+        [
+          "E Geinitz",
+          "LOC",
+          994,
+          1003
+        ],
+        [
+          "KII-0246",
+          "LOC",
+          1006,
+          1014
+        ]
+      ]
+    },
+    {
+      "id": "21778",
+      "sender": "Geinitz",
+      "text": "Eventuelle Aenderung vorbehaltend schlage ich eine mündliche\r\nVerhandlung in Güstrow Sonntag d. 9. 3 Uhr bei Herrn Peltz vor.\r\n(Dr Wossidlo und ichmüssten von der Schweriner Versammlung 1,20\r\nabfahren zus mit Dr Witte)\r\nBitte um gef baldige Nachricht, ob der Vorschlag genehm.\r\nGeinitz\r\nKII-0246-5\r\n",
+      "entities": [
+        [
+          "Güstrow",
+          "LOC",
+          77,
+          84
+        ],
+        [
+          "Herrn Peltz",
+          "PER",
+          109,
+          120
+        ],
+        [
+          "Dr Wossidlo",
+          "PER",
+          128,
+          139
+        ],
+        [
+          "Schweriner Versammlung",
+          "MISC",
+          163,
+          185
+        ],
+        [
+          "Dr Witte",
+          "PER",
+          209,
+          217
+        ],
+        [
+          "Geinitz",
+          "LOC",
+          278,
+          285
+        ],
+        [
+          "KII-0246",
+          "LOC",
+          287,
+          295
+        ]
+      ]
+    },
+    {
+      "id": "21780",
+      "sender": "Geinitz",
+      "text": "S.g.H.Dr.\r\nKarten versendet Witte. ich habe ihm Ihre Wünsche mitgeteilt, aber\r\nnoch nicht die von Köpke-Teterow\r\nGeist wird hoff einen Mann für die Müritz empfehlen.\r\nFür Malchin und Teterow haben wir noch keinen Obmann. Abwarten!\r\nResultat der heutigen Umfrage teile ich dann mit.\r\nBesten Gruss\r\nE Geinitz\r\nFür Penzlin-Stadtfeldmark ist stud Budzier hier.\r\nMittelung von Frl Seemann folgt anbei\r\nKII-0246-6\r\n",
+      "entities": [
+        [
+          "S.g",
+          "LOC",
+          0,
+          3
+        ],
+        [
+          "Witte",
+          "PER",
+          28,
+          33
+        ],
+        [
+          "Köpke-Teterow",
+          "PER",
+          98,
+          111
+        ],
+        [
+          "hoff",
+          "PER",
+          124,
+          128
+        ],
+        [
+          "Müritz",
+          "LOC",
+          148,
+          154
+        ],
+        [
+          "Für Malchin",
+          "LOC",
+          167,
+          178
+        ],
+        [
+          "Teterow",
+          "LOC",
+          183,
+          190
+        ],
+        [
+          "E Geinitz",
+          "LOC",
+          297,
+          306
+        ],
+        [
+          "Penzlin-Stadtfeldmark",
+          "LOC",
+          312,
+          333
+        ],
+        [
+          "stud Budzier",
+          "PER",
+          338,
+          350
+        ],
+        [
+          "Frl Seemann",
+          "PER",
+          372,
+          383
+        ],
+        [
+          "KII-0246",
+          "LOC",
+          397,
+          405
+        ]
+      ]
+    },
+    {
+      "id": "21783",
+      "sender": "Geinitz",
+      "text": "Rostock, 11.3.08\r\nSehr geehrter Herr Dr.\r\nAnbei die Formulare.\r\nDie Eingänge habe ich weiter gegeben, weil ich die Verantwortung\r\ndafür nicht tragen will und mir das Schweriner Archiv als der\r\nsicherste Ort erscheint. Gar zu sehr mächte ich die Zentrale\r\nauch nicht belastet sehen: ich habe wirklich genug Arbeit davon.\r\nDoch will ich mit Bloch einmal reden, ob sich ein bequemerer Modus\r\nfinden lässt.\r\nDie noch vorhandenen Lücken wollen wir sich allmälich von\r\nselbst füllen lassen (mitteleres Meckl)\r\nBestens grüssend\r\nIhrergebener\r\nE Geinitz\r\nKII-0246-9\r\n",
+      "entities": [
+        [
+          "Rostock",
+          "LOC",
+          0,
+          7
+        ],
+        [
+          "11.3.08",
+          "MISC",
+          9,
+          16
+        ],
+        [
+          "Schweriner",
+          "LOC",
+          166,
+          176
+        ],
+        [
+          "Gar",
+          "PER",
+          218,
+          221
+        ],
+        [
+          "Bloch",
+          "PER",
+          339,
+          344
+        ],
+        [
+          "Ihrergebener",
+          "LOC",
+          522,
+          534
+        ],
+        [
+          "E Geinitz",
+          "LOC",
+          536,
+          545
+        ],
+        [
+          "KII-0246",
+          "LOC",
+          547,
+          555
+        ]
+      ]
+    },
+    {
+      "id": "21787",
+      "sender": "Geinitz",
+      "text": "Sehr geehrter Herr Prof. Anbei der Entwurf von Peltz. Wollen Sie\r\nIhre Zusätze und Aenderungen bald machen und dann an Prof Bloch\r\nschicken, mit Anweisung, sie mir wieder zustellen zu wollen?\r\nAm Schluss müssen wir wohl noch auf die Sagenfrage hinweisen?\r\nErrebenst\r\n4.2.09\r\nE Geinitz\r\nKII-0246-12\r\n",
+      "entities": [
+        [
+          "Peltz",
+          "PER",
+          47,
+          52
+        ],
+        [
+          "Prof Bloch",
+          "PER",
+          119,
+          129
+        ],
+        [
+          "Errebenst\r\n4.2.09\r\n",
+          "LOC",
+          256,
+          275
+        ],
+        [
+          "E Geinitz",
+          "LOC",
+          275,
+          284
+        ],
+        [
+          "KII-0246",
+          "LOC",
+          286,
+          294
+        ]
+      ]
+    },
+    {
+      "id": "21782",
+      "sender": "Geinitz",
+      "text": "Rostock, 5.3.08\r\nAn Herrn Dr Witte und Dr Wossidlo.\r\nDie Zahl der bei mir eingetragenen Sammler beträgt heute 213.\r\nAnbei die Listen derselben, auf Bezirke verteilt; die unter-\r\nstrichenen Namen sind Obmänner.\r\nDie Listen bitte zu behalten und zu ergänzen; Nachträge in April\r\nan mich mitzuteilen.\r\nBez. Schwerin finden Sie wohl noch geeignete Obmänner.\r\nDie Karte von Peltz zirkuliert an die beiden Herren mit der Bitte\r\num demnächstige Rückgabe an mich.\r\nDie Kartenvorlage von Peltz ist in 300 Ex vervielfältigt, wurde\r\njedem Obmann zugesandt und steht Ihnen weiter zur Verfügung,\r\neinige Exemplare folgen schon heute.\r\nFür die grossen Forstbezirke sind zur Hälfte schon Obmänner ge-\r\nwonnen (Forstmeister und Oberförster pp), die Liste ist aber noch\r\nnicht geschlossen. Für die gr. Seen fehlen noch Adressen.\r\nDie eingelaufenen Beiträge schicke ich anbei an Herrn Dr Witte:\r\nStrelitz ist noch nicht geordnet.\r\nErgebenst\r\nGeinitz\r\nKII-0246-7\r\n",
+      "entities": [
+        [
+          "Rostock",
+          "LOC",
+          0,
+          7
+        ],
+        [
+          "Herrn Dr Witte",
+          "PER",
+          20,
+          34
+        ],
+        [
+          "Dr Wossidlo",
+          "PER",
+          39,
+          50
+        ],
+        [
+          "Bez",
+          "LOC",
+          299,
+          302
+        ],
+        [
+          "Schwerin",
+          "LOC",
+          304,
+          312
+        ],
+        [
+          "Peltz",
+          "LOC",
+          369,
+          374
+        ],
+        [
+          "Kartenvorlage von Peltz",
+          "MISC",
+          461,
+          484
+        ],
+        [
+          "wonnen",
+          "LOC",
+          687,
+          693
+        ],
+        [
+          "Herrn Dr Witte",
+          "PER",
+          861,
+          875
+        ],
+        [
+          "Strelitz",
+          "LOC",
+          878,
+          886
+        ],
+        [
+          "Geinitz",
+          "LOC",
+          924,
+          931
+        ],
+        [
+          "KII-0246",
+          "LOC",
+          933,
+          941
+        ]
+      ]
+    }
+  ]
+}

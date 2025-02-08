@@ -1,0 +1,844 @@
+{
+  "results": [
+    {
+      "id": "619",
+      "sender": "Beltz",
+      "text": "Schwerin: _\r\n 3. Juli 1938.\r\n Friedrich Franzstr. 27 A\r\n Hochgeehrter lieber Herr Kollege.\r\n Mit Ihrem freundlichen Schreiben vom 27 _ haben Sie\r\n mir eine rechte Freude gemacht, und ich sage ihnen herzlichsten Dank. Es ist\r\n doch eine ganze Fülle interessanter Dinge, die sich um den vergessenen Ort _. Ganz\r\n besonders interessiert mich, daß der Fuchsberg ein _ ist. Er hat mir schon\r\n viel Kopfzerbrechen gemacht. Er trägt einen Wall, den man Burgwall nennt, \r\n der aber nichts von Burgwallart hat, vielleicht findet er einmal als Kultstätte\r\n Deutung.\r\n Mit großer Freude höre ich, daß es mit ihrer Gesundheit aufwärts\r\n geht. Ich hatte gehofft, auf der Parchim Tagung mich selbst davon überzeugen\r\n zu können, mußte dann aber die Teilnahme aufgeben, da ich mir die doppelte\r\n Strapaze nicht mehr zumuten kann.\r\n Mit Staunen erfahre ich, was alles Sie in letzter Zeit aus\r\n Ihren unendlichen Schätzen uns durch Druck zugänglich zu machen ermöglicht haben\r\n und wünsche den schönsten weiten Erfolg. Daß ich damit einen Glückwunsch\r\n für das Durchdringen der Bedeutung Ihres Lebenswerkes, _ _ _ _ von\r\n neuen in der Verleihung der _ ausdrücken. Verbinden dort ist mir\r\n ein wirkliches Lobfest. \r\n Mit besten Wünschen für weiteren glücklichen Fortgang und herzlichste\r\n Grüße\r\n in alter Treue der _\r\n R. Beltz.\r\n\r\n",
+      "entities": [
+        ["Schwerin",               "LOC",     0 , 8    ],
+
+        ["3.Juli 1938",            "EVENT",   17, 26   ],
+
+        [ "Friedrich Franzstr",    "PER",     30, 48    ],
+
+        ["27",                     "EVENT",   50, 52    ],
+
+        ["Herr Kollege",           "PER",     77, 89    ],
+
+        ["27",                     "EVENT",   130, 132  ],
+
+        ["Fuchsberg",              "LOC",     348, 357  ],
+
+        ["Burgwall",               "LOC",     446, 454  ],
+
+        ["Parchim",                "LOC",     658, 665  ],
+
+        ["Ihres Lebenswerkes",     "PER",     1071, 1089],
+
+        ["Lobfest",                "EVENT",   1187, 1194 ]
+      ]
+    },
+    {
+      "id": "620",
+      "sender": "Beltz",
+      "text": "Schwerin i /M Friedrich Franzstr. 27. A\r\n 23 Juni 1938\r\n hochverehrter lieber Herr Kollege.\r\n Seit langem habe ich von Ihnen direkt nichts gehört, und\r\n ich freue mich desto mehr, eine Veranlassung zu haben, mich einmal wieder mit einer\r\n Bitte an Sie zu wenden.\r\n Die großen Ausgrabungen der Reichsamtsbahn bei Wittenburg, haben noch auch\r\n in das verschlafene Dodow geführt, dass schon als früherer Wohnsitz der Ratzeburger Bischöfe\r\n beachtenswert ist. Dort habe ich von einer Marienborn und einem Bischofsborn gehört,\r\n beide Namen noch jetzt in Gebrauch, und sie auch besucht. Über den Marienborn hatten\r\n die Leute nichts zu sagen, wohl aber vom Bischofsborn: ein Bischof wurde von seinen\r\n Gegnern an einem Baum gefesselt, vorm _ aber dadurch gerettet, daß zu\r\n seinen Füßen eine Quelle entsprang, die er erreichen konnte. Ich nehme an, daß es hier\r\n bei dem Bischof um den als _ heiliggesprochenen Rudolf (1235 - 1253) und\r\n seine Gegnerschaft zu Albrecht von Lauenburg handelt (vgl. Krüger-Zarge _).\r\n Wir haben dann hier eine legendäre Sage, etwas in Mecklenburg _ sehr sel¬\r\n ten. Sie würden mir eine Freude machen durch eine gesellige Mitteilung, ob\r\n Ihnen dortiges überhaupt vorgekommen ist, und überhaupt, ob eine Zusammen-\r\n stellung von Quellsagen schon erfolgt und es zur Weiterführung gekommen ist.\r\n Bei einer liebenswürdigen Beantwortung bitte ich, auch um eine Mitteilung, ob und\r\n wie weit ich von Ihrer Auskunft in einem Artikel der Heimatbundzeitschrift _\r\n davon Gebrauch machen darf.\r\n Im vorigen Sommer hörte ich auf dem Fischlande, daß Sie in alter bemerkens_\r\n werter Frische dort tätig sein und wünsche von Herzen, daß dieses Thema voll er¬\r\n halten geblieben ist und noch lange, uns allen zu Nutze, erhalten bleiben möge.\r\n In alter Treue\r\n Herzlichst _\r\n _ der ihr\r\n R. Beltz\r\n",
+      "entities": [
+        [
+          "Schwerin i",
+          "LOC",
+          0,
+          10
+        ],
+        [
+          "M Friedrich Franzstr",
+          "PER",
+          12,
+          32
+        ],
+        [
+          "23",
+          "EVENT",
+          42,
+          44
+        ],
+        [
+          "Juni 1938",
+          "EVENT",
+          45,
+          54
+        ],
+        [
+          "Herr Kollege",
+          "PER",
+          78,
+          90
+        ],
+        [
+          "Seit langem",
+          "EVENT",
+          94,
+          105
+        ],
+        [
+          "Reichsamtsbahn bei Wittenburg",
+          "LOC",
+          293,
+          322
+        ],
+        [
+          "Dodow",
+          "LOC",
+          362,
+          367
+        ],
+        [
+          "Ratzeburger Bischöfe",
+          "LOC",
+          414,
+          434
+        ],
+        [
+          "Marienborn",
+          "LOC",
+          480,
+          490
+        ],
+        [
+          "einem Bischofsborn",
+          "LOC",
+          495,
+          513
+        ],
+        [
+          "Marienborn",
+          "LOC",
+          591,
+          601
+        ],
+        [
+          "Bischofsborn",
+          "LOC",
+          652,
+          664
+        ],
+        [
+          "ein Bischof",
+          "PER",
+          666,
+          677
+        ],
+        [
+          "dem Bischof",
+          "PER",
+          862,
+          873
+        ],
+        [
+          "heiliggesprochenen Rudolf",
+          "PER",
+          887,
+          912
+        ],
+        [
+          "1235",
+          "EVENT",
+          914,
+          918
+        ],
+        [
+          "1253",
+          "EVENT",
+          921,
+          925
+        ],
+        [
+          "Albrecht",
+          "PER",
+          955,
+          963
+        ],
+        [
+          "von Lauenburg",
+          "LOC",
+          964,
+          977
+        ],
+        [
+          "Krüger-Zarge",
+          "EVENT",
+          992,
+          1004
+        ],
+        [
+          "Mecklenburg",
+          "LOC",
+          1061,
+          1072
+        ],
+        [
+          "Im vorigen Sommer",
+          "EVENT",
+          1513,
+          1530
+        ],
+        [
+          "Fischlande",
+          "LOC",
+          1549,
+          1559
+        ]
+      ]
+    },
+    {
+      "id": "623",
+      "sender": "Beltz",
+      "text": "Beltz\r\nSchwerin: i/M. 25 Jan. 1936\r\n_. 7\r\nMein lieber alter Freund.\r\nWieder geht ein Lebensjahr zu Ende. Unter\r\ndenn, die da mit Dankbarkeit und Verehrung Ihrer Gedenken, vergingen\r\nSie, bitte, auf mir einen _. Mit herzlichstem Glückwunsch kann ich\r\nnichts besseres wünschen als daß das neue Jahr sich dem alten würdig anschließt\r\ndaß es Ihnen Ihre _ Tätigkeitsfrische und Freude und Kraft zu\r\nihrem Lebenswerk voll erhalte und volle Freiheit von körperlichen und\r\nseelischen Hemmnissen gebe. Sie haben ein glückliches Alter, wie es wenigen\r\nbeschienen ist, Sie sind der Herr einer unerhörten Fülle von Erlebten\r\nund Erarbeiteten das vor ihnen ausgebreitet liegt und das immer noch\r\nmehr zu erweitern und zu vertiefen und nutzbar zu machen Sie noch\r\nKraft und Beruf in sich fühlen. Bergen Sie die Ernte in Segen!\r\nAls eine Art Vorfand habe ich mir wieder einmal die allerliebste\r\n_ _ vorgenommen, und dabei ist mir etwas aufgefallen, wo-\r\nnach ich Sie immer schon fragen wollte. Vielleicht finden Sie einige\r\nfreie Minuten dazu mich aufzuklären. Die _sage wird nicht erwähnt ist\r\ndas Absicht? An einer anderen Stelle haben Sie sie noch immer _\r\ngegeben im Wesentlichen übereinstimmend mit der Fassung bei Bische. Also ohne\r\ngolden Wagen. Diese ist mir nur entgegengetreten in der Erzählung der\r\nAlten Kustodin Amalie Buchheim, es liegt also der Verdacht nahe, daß es\r\nsich um ein Küstergeschenk handelt. Gutgläubig habe ich sie weitergegeben und\r\nfühle mich nun zur Aufklärung verpflichtet. Können Sie mir dazu helfen,\r\nso würden Sie mich zu besonderem Danke verpflichten.\r\nIn der Hoffnung daß diese Zeilen Sie in bester Gesundheit antreffen und\r\nSie dem schönen Festtag verleben, wie es ihm gebührt.\r\nUnd damit innigsten Glückwunsch und herzlichste\r\nGrüße\r\nin alter Treue\r\nIhr _\r\nR. Beltz\r\nHaben Sie auch _ und Dämonengestalten zusammenfassend behandelt?\r\nKI. OA1-NX\r\n\r\n\r\n",
+      "entities": [
+        [
+          "Beltz",
+          "PER",
+          0,
+          5
+        ],
+        [
+          "Schwerin",
+          "LOC",
+          7,
+          15
+        ],
+        [
+          "i",
+          "EVENT",
+          17,
+          18
+        ],
+        [
+          "25 Jan. 1936",
+          "EVENT",
+          22,
+          34
+        ],
+        [
+          "Mein lieber alter Freund",
+          "PER",
+          42,
+          66
+        ],
+        [
+          "ein Lebensjahr zu Ende",
+          "EVENT",
+          81,
+          103
+        ],
+        [
+          "Jahr",
+          "EVENT",
+          292,
+          296
+        ],
+        [
+          "Alten Kustodin Amalie Buchheim",
+          "PER",
+          1295,
+          1325
+        ],
+        [
+          "R. Beltz",
+          "PER",
+          1781,
+          1789
+        ]
+      ]
+    },
+    {
+      "id": "628-632-633",
+      "sender": "Beltz",
+      "text": "Schwerin i/M. 24. April 1933.\r\nMühlenstr. 22.\r\nLieber Herr Kollege.\r\nGestatten Sie mit gewohnter Freundlichkeit, daß ich Ihre\r\nso stark in Anspruch genommene Zeit wieder einmal mit einer\r\ngroßen Bitte belaste.\r\nDie Vereinigung für Burgwallforschung hat ihr Aufnehmen\r\nbeendet\r\nveröffentlicht und _ Veröffentlichung. _ habe ich über-\r\nnommen. Es handelt sich nicht um ein wissenschaftliches _\r\nmit erschöpfender Behandlung der Probleme, sondern nur um eine\r\norientierende Zusammenfassung. Aber auch in dieser dürfen die\r\nSagen nicht fehlen. Und da sollen Sie mir helfen. Von einer\r\nauch nur summarischen Vorführung ist natürlich nicht die\r\nRede, es kann sich nur um eine Charakterisierung der\r\n_ von Burgwallsagen und ihn Vermehrbarkeit für \r\ndie Beurteilung der Bedeutung und zeitlichen Stellung der\r\nmecklenburgischen Burgwälle handeln. Darf ich da die sich\r\nmir aufdrängenden Wünsche in zwanglose Reihenfolge\r\nangeben?\r\nAd -123\r\nXII\r\n\r\n\r\n4. Es fällt mir auf, wie schwach die Erinnerung an den\r\nwendischen Charakter der Burgwälle im Volke ist. Selbst\r\n_ wir Wendenburg u. ä. fehlen fast ganz, ein\r\nHeidenwall, ein in Brandenburgischen allgemeiner _ ist\r\nmir überhaupt nicht begegnet, auch nicht der Wiederkönig\r\nder dort eine so große Rolle spielt. Kommt dieser bei\r\nuns überhaupt vor und haben _, _.\r\nkämpfe, _bekehrung in der Sage einen Niederschlag ge-\r\nfunden?\r\n2. Ebenso steht es mit den_. Nur Schwedenschanzen,\r\neinmal auch eine Wallensteinschanze kommen vor. Liegen\r\nderartige Erinnerungen in Sagen vor?\r\n3. Wir haben einen Juden_ und einen Juden_.\r\nSpielen die Juden in den Sagen eine Rolle, die Erklärung\r\ngeben könnte?\r\n4. Seinige Eigenheiten. _ ist _ wer _?\r\nwas heißt Rumfegen?\r\n5. Die schwerwiegenste Frage ist natürlich, ob Burgwall¬\r\nsagen dazu verwendbar sind, eine Überdauer\r\nKI-Oat -B.1\r\n\r\n\r\nallgermanischer Bevölkerungen zu begründen. Haben Sie viel¬\r\nleicht Material drüber im Kopf, (eine Durchsicht Ihrer Samm¬\r\nlungen mute ich dem natürlich nicht zu) dass Sie mir in\r\nkurzer _ geben könnten?\r\n6. Heben sich Burgwallsagen aus der Masse der übrigen\r\n_ab? Was mir bekannt geworden ist, sind allgemein\r\nverbreitete Motive: goldene Wiege (auch Glocken) versteckte\r\nSchätze, zu erlösende Prinzessin. Wasser holende Frau, Unter¬\r\nirdische, nicht Riesen), Räuber, unterindischer Ganz\r\nu. s. w.\r\nFür freundliche gelegentliche Mitteilung würde\r\nich Ihnen sehr Danken und verbleibe\r\nmit den besten Wünschen für Ihr Wohlergehen\r\nin alter Freundschaft und Verehrung\r\nder Ihre\r\nR. Beltz\r\n\r\n",
+      "entities": [
+        [
+          "Schwerin i",
+          "LOC",
+          0,
+          10
+        ],
+        [
+          "April 1933",
+          "EVENT",
+          18,
+          28
+        ],
+        [
+          "Mühlenstr",
+          "LOC",
+          31,
+          40
+        ],
+        [
+          "22",
+          "EVENT",
+          42,
+          44
+        ],
+        [
+          "Herr Kollege",
+          "PER",
+          54,
+          66
+        ],
+        [
+          "mecklenburgischen Burgwälle",
+          "LOC",
+          801,
+          828
+        ],
+        [
+          "Wendenburg",
+          "LOC",
+          1059,
+          1069
+        ],
+        [
+          "Heidenwall",
+          "LOC",
+          1099,
+          1109
+        ],
+        [
+          "in Brandenburgischen",
+          "LOC",
+          1115,
+          1135
+        ],
+        [
+          "Schwedenschanzen",
+          "LOC",
+          1400,
+          1416
+        ],
+        [
+          "einen Juden",
+          "PER",
+          1526,
+          1537
+        ],
+        [
+          "einen Juden",
+          "PER",
+          1543,
+          1554
+        ],
+        [
+          "Burgwall",
+          "LOC",
+          1739,
+          1747
+        ],
+        [
+          "R. Beltz",
+          "PER",
+          2487,
+          2495
+        ]
+      ]
+    },
+    {
+      "id": "631",
+      "sender": "Beltz",
+      "text": "26. März. 1934\r\nSchwerin 117.\r\n_ str. 7.\r\nHochverehrter liebe Herr Kollege.\r\nWir sind bei dem Festabend mit etwas raschem\r\nAbschied auseinandergekommen, und ich möchte mir gestatten, auf\r\ndiesen Wege Ihnen den herzlichsten Dank für Ihr freundliche\r\nTeilnahme auszusprechen. Ich denke an den Abend mit Ver¬\r\ngnügen und auch mit Befriedigung zurück. Er gestaltete sich¬\r\nbesonders durch die Programmorden der beiden Herren in denen\r\nich meine Nachfolger zu einer gehaltvollen Kundgebung über\r\nSinn und zu erstorbener Zukunft der Bewegung, der mein\r\nLebenswerk geholfen hat. Daß Altwerden ein etwas _¬\r\n_ Lupus ist, wissen Sie aus eigener Erfahrung. Es ist\r\neine Fülle von Glückwünschen aller Art und von allen möglichen\r\neingetroffen\r\nStellen (zu denen natürlich das _ _ nicht gehörte), die\r\nerledigt werden wollten und dem Differenzierung Nachdenken hastete.\r\nAber das meiste ist geschafft, und ich sehe ruhigen Zeiten ent-\r\ngegen.\r\nMit den Wünschen, daß diese Zeilen die Kürze ich mit der\r\nstarken Belastung zu entschuldigen bitte, Sie in bestem Wohlsein antreffen\r\nin alter Treue\r\nstets der Ihre\r\nR. Beltz\r\n\r\n",
+      "entities": [
+        [
+          "26.",
+          "EVENT",
+          0,
+          3
+        ],
+        [
+          "März",
+          "EVENT",
+          4,
+          8
+        ],
+        [
+          "1934",
+          "EVENT",
+          10,
+          14
+        ],
+        [
+          "Schwerin",
+          "LOC",
+          16,
+          24
+        ],
+        [
+          "117",
+          "EVENT",
+          25,
+          28
+        ],
+        [
+          "str",
+          "LOC",
+          33,
+          36
+        ],
+        [
+          "7",
+          "EVENT",
+          38,
+          39
+        ],
+        [
+          "Herr Kollege",
+          "PER",
+          62,
+          74
+        ],
+        [
+          "bei dem Festabend",
+          "EVENT",
+          86,
+          103
+        ],
+        [
+          "R. Beltz",
+          "PER",
+          1098,
+          1106
+        ]
+      ]
+    },
+    {
+      "id": "639",
+      "sender": "Beltz",
+      "text": "Lieber\r\nHerr Kollege.\r\nAnbei mit herzlichem Dank das Beste\r\nzurück. Die Fragen sind _; ob sie in dem\r\nin Arbeit befindlichen _ zur _\r\ngebracht werden können, ist allerdings zweifelhaft geworden\r\nda die Berichte über die _ Versammlung sich\r\nrecht _ halten.\r\nMit besten Wünschen für Ihre\r\n_ gehen\r\nin alter Treue\r\nIhr\r\nR. Beltz\r\nSchwerin 5. _. 32.\r\nXII.0081-139\r\n\r\n\r\n\r\n\r\n",
+      "entities": [
+        [
+          "Herr Kollege",
+          "PER",
+          8,
+          20
+        ],
+        [
+          "_ Versammlung",
+          "EVENT",
+          220,
+          233
+        ],
+        [
+          "R. Beltz  Schwerin",
+          "PER",
+          317,
+          335
+        ],
+        [
+          "5",
+          "EVENT",
+          336,
+          337
+        ]
+      ]
+    },
+    {
+      "id": "648",
+      "sender": "Beltz",
+      "text": "Schwerin: /17. 2. Febr. 1932\r\nMühlenstr. 22.\r\nHochverehrter lieber Herr Kollege.\r\nEs hat mich außerordentlich erfreut, bei Ge¬\r\nlegenheit der Rundfrage über ein _ einmal wieder\r\netwas von Ihnen zu erfahren und ich hoffe von Herzen, daß Sie\r\nIhre Gesundheitsstörung baldigst überwinden werden und in der\r\nvon uns allen stets bewunderten Arbeitsfrische ans Werk gehen\r\nkönnen. Die Anregung ist auf fruchtbaren Boden gefallen es sind in\r\ngroße Anzahl Bereiterklärungen eingegangen, was nun allerdings\r\nden Nachteil hat, daß wir um tunlichst Beschränkung, der bis\r\nvon Druckseiten, bitten müssen. Das ist _, denn die Müriz¬\r\ngegend Bedarf einer _ und Erklärung ihrer Eigenart, ihr gehört\r\nnicht nur landschaftlich, sondern auch in ihrem geschiochtlichen, völkischen u. s. w. Zusammen-\r\nhänge zu der am wenigsten Bekannten des Landes, und ich möchte wohl daß\r\ndie verschiedenen _ uns einmal sagten, wie die dort verbreitete Kirche\r\nBauort, das Bauernhau, die Sprachgebung u. s. w. sich genetisch, in erster\r\nLinie doch wohl besiedelungsgeschichtlich, deuten lassen. Dabei steht Ihr Forschungs-\r\ngebiet an erster Stelle, und ich würde mich außerordentlich freuen, wenn\r\nSie das zusammenstellen wollten, welche Sage- und Gebrauchszüge gerade\r\ndort die herrschenden sind und in welche Richtung sie weisen\r\nWir haben am 30._._ hier eine sehr anregende Versammlung\r\ngehabt. Auch Waren ist eingehend besprochen und ich schreibe gleichzeitig mit\r\ndiesem im Sinne Ihres _. Votums an Bartels. Der _ hat\r\nNachwuchs, sehr guten mit der Beruhigung können wir Alten an Abbau denken\r\nIch hoffe, bald einmal wieder von Ihnen zu hören wünsche Ihnen\r\nalles Gute und bleibe in alter Treue\r\nstets der Ihre\r\nXI. O02l. 125\r\nR. Beltz.\r\n\r\n\r\n",
+      "entities": [
+        [
+          "Schwerin",
+          "LOC",
+          0,
+          8
+        ],
+        [
+          "17. 2. Febr",
+          "EVENT",
+          11,
+          22
+        ],
+        [
+          "1932",
+          "EVENT",
+          24,
+          28
+        ],
+        [
+          "Mühlenstr",
+          "LOC",
+          30,
+          39
+        ],
+        [
+          "22",
+          "EVENT",
+          41,
+          43
+        ],
+        [
+          "Herr Kollege",
+          "PER",
+          67,
+          79
+        ],
+        [
+          "des Landes",
+          "LOC",
+          818,
+          828
+        ],
+        [
+          "Kirche",
+          "LOC",
+          919,
+          925
+        ],
+        [
+          "Bauort",
+          "LOC",
+          927,
+          933
+        ],
+        [
+          "Bauernhau",
+          "LOC",
+          939,
+          948
+        ],
+        [
+          "30.",
+          "EVENT",
+          1311,
+          1314
+        ],
+        [
+          "Bartels",
+          "PER",
+          1470,
+          1477
+        ],
+        [
+          "Nachwuchs",
+          "PER",
+          1490,
+          1499
+        ],
+        [
+          "R. Beltz",
+          "PER",
+          1698,
+          1706
+        ]
+      ]
+    },
+    {
+      "id": "649-650",
+      "sender": "Beltz",
+      "text": "Schwerin: i/M. 25. Sept. 1931\r\nMühlenstr. 22.\r\nHochverehrter lieber, Herr Kollege.\r\nGestern ist das Muster Band in meine Hände gelangt. Lasse\r\nSie mit herzlichstem Dank fragen und herzlichster Glückwunsch; es ist ein wei-\r\nterer bedeutungsvoller Schritt auf meinem Lebensweg, dessen Fülle und Wert so\r\nauch weiteren Eifers sich erschließen wird. Für eine würdige Besprechung wird\r\nSorge getragen werden, wenn irgend möglich schon im nächsten Halt.\r\nIch muß damit eine Bitte verbinden, die um recht baldige Über¬\r\nsendung des Tätigkeitsberichtes für 1930. Das Heft ist in Druck gegeben der\r\nwegen der Nachnamen u. a. Anfang November erscheinen soll. Raum für die\r\nTätigkeitsberichte ist frei gelassen, aber der Fortgang der Arbeit hängt von _\r\nEintreffen ab\r\nGesten hatten wir eine Besprechung in Heimatbundsachen. Sie hat\r\nbesonders der Heimatwoche und den Folgerungen, die wir ihr zu erwähnen haben.\r\ndie Befriedigung war allgemein, besonders auch über das Zusammenarbeiten mit\r\nder Gilde. Wir wollen dieses pflegen und bei guter Jahreszeit eine Wieder¬\r\nholung einiger Veranstaltungen versuchen, so die Volksliederabende und das La¬\r\nternengehens, auch der Veranstaltung eines wirklichen Dichtabends auf anderer\r\nBases als de diesmalige verunglückte schien erwünscht.\r\nDem _ Heimatmuseum gegenüber wollten wir eine gewisse\r\nZurückzahlung über recht gute, zum Teil originelle Ideen dazu hat der Rektor\r\n; ich werde versuchen, ihn zur Niederschrift zu bringen.\r\nInteressiert hat mich folgendes. Der alte Rektor i. R. Peters erzählte\r\nes gebe hier in Schwein etwa 30 pensionierte _, diese kommen jenen Mon¬\r\ntag 3 -6 im Schweizerhause zusammen, der älteste ist 90, ein andrer 82 Jahre\r\natl. An Namen nannte er Linshöft-Schwarz, Rehm- Bangen, Bach-_\r\nZollbek. Linshöft. Ginag, Glöde, Grospitz, Grünwalt, _, Bluth,\r\nKölzow, Metelmann, Römhild, Wiedom. Das sind ja zum Teil uns als\r\nXII. Oxr-13\r\nHeimatfreunde bekannte Name. Ich bin überzeugt, daß Sie diesen\r\nKreise gern nähertreten würden und wollte die Sache doch nicht un¬\r\nweitergegeben lassen. Wenn Sie etwa bei Gelegenheit eines Aufenthaltes\r\nhier an der Zusammenkunft teilnehmen wollen, sagen Sie, bitte, es mir ich\r\nkomme gern mit\r\nMit besten Wünschen für Ihr Wohlergehen\r\nherzlichst grüßend\r\nIhr getreuer\r\nR. Betz\r\nXII. Oo81- 13.1\r\n\r\n",
+      "entities": [
+        [
+          "Schwerin",
+          "LOC",
+          0,
+          8
+        ],
+        [
+          "i",
+          "LOC",
+          10,
+          11
+        ],
+        [
+          "25. Sept. 1931",
+          "EVENT",
+          15,
+          29
+        ],
+        [
+          "Mühlenstr",
+          "LOC",
+          31,
+          40
+        ],
+        [
+          "22",
+          "EVENT",
+          42,
+          44
+        ],
+        [
+          "Herr Kollege",
+          "PER",
+          69,
+          81
+        ],
+        [
+          "1930",
+          "EVENT",
+          549,
+          553
+        ],
+        [
+          "Anfang November",
+          "EVENT",
+          616,
+          631
+        ],
+        [
+          "Heimatwoche",
+          "EVENT",
+          837,
+          848
+        ],
+        [
+          "Gilde",
+          "PER",
+          984,
+          989
+        ],
+        [
+          "ternengehens",
+          "PER",
+          1136,
+          1148
+        ],
+        [
+          "Heimatmuseum",
+          "LOC",
+          1277,
+          1289
+        ],
+        [
+          "der Rektor",
+          "PER",
+          1392,
+          1402
+        ],
+        [
+          "Der alte Rektor i",
+          "PER",
+          1495,
+          1512
+        ],
+        [
+          "R. Peters",
+          "PER",
+          1514,
+          1523
+        ],
+        [
+          "Mon¬  tag",
+          "EVENT",
+          1601,
+          1610
+        ],
+        [
+          "Schweizerhause zusammen",
+          "EVENT",
+          1619,
+          1642
+        ],
+        [
+          "90",
+          "EVENT",
+          1660,
+          1662
+        ],
+        [
+          "82 Jahre  atl",
+          "EVENT",
+          1675,
+          1688
+        ],
+        [
+          "Linshöft-Schwarz",
+          "PER",
+          1709,
+          1725
+        ],
+        [
+          "Rehm",
+          "PER",
+          1727,
+          1731
+        ],
+        [
+          "Bangen",
+          "EVENT",
+          1733,
+          1739
+        ],
+        [
+          "Bach",
+          "EVENT",
+          1741,
+          1745
+        ],
+        [
+          "Zollbek",
+          "EVENT",
+          1749,
+          1756
+        ],
+        [
+          "Linshöft",
+          "EVENT",
+          1758,
+          1766
+        ],
+        [
+          "Ginag",
+          "EVENT",
+          1768,
+          1773
+        ],
+        [
+          "Glöde",
+          "EVENT",
+          1775,
+          1780
+        ],
+        [
+          "Grospitz",
+          "EVENT",
+          1782,
+          1790
+        ],
+        [
+          "Grünwalt",
+          "EVENT",
+          1792,
+          1800
+        ],
+        [
+          "_",
+          "EVENT",
+          1802,
+          1803
+        ],
+        [
+          "Bluth",
+          "EVENT",
+          1805,
+          1810
+        ],
+        [
+          "Kölzow",
+          "LOC",
+          1813,
+          1819
+        ],
+        [
+          "Metelmann",
+          "EVENT",
+          1821,
+          1830
+        ],
+        [
+          "Römhild",
+          "LOC",
+          1832,
+          1839
+        ],
+        [
+          "Wiedom",
+          "LOC",
+          1841,
+          1847
+        ],
+        [
+          "getreuer  R. Betz  XII",
+          "PER",
+          2252,
+          2274
+        ]
+      ]
+    },
+    {
+      "id": "660",
+      "sender": "Beltz",
+      "text": "Schwerin i/M 10. April 1930\r\nMühlenstr. 22.\r\nHochverehrter lieber Herr Kollege.\r\nFür den freundlichen Gruß, mit dem Sie ein Anschreiben\r\naus dem Amt begleitet sage ich Ihnen herzlichsten Dank. Sie haben mir\r\ndamit eine ganz besondere Freude gemacht, denn ich hatte ein Auf¬\r\nmunterung nötig. Als Abschiedstag hatte ich den Termin gewählt, an\r\ndem ich vor fünfzig Jahren die Betreuung der Bundesaltertümer über¬\r\nnommen hatte. Eine unendliche Fülle von Erinnerungen drängt sich da\r\nzusammen; ein Abschluß sollte es nicht sein, ich hoffte, nun erst recht\r\naufarbeiten zu können, was unter den Druck laufender Geschäfte zurück¬\r\ngeblieben war. Es ist anders gekommen, ich hatte am 1._. _. die Tür des\r\nMuseums hinter mir zugeschlagen. Ein Antrag, mir weiter Gelegenheit\r\nzu lassen, mich in der Sammlung zu beteiligen, ist damit beantwortet,\r\ndaß ich mich \"aufkommendenfalls mit meinem Nachfolger benehmen solle,\r\nDieser Nachfolger ist – der Museumsrat Dr. Reifferscheid. So geschehen\r\nim Lande Mecklenburg 1930.\r\nSie werden mir die freundschaftliche Gesinnung bewahren, der\r\nsie seit Jahren als kostbaren Besitzes mich erfreut sehe.\r\nMit besten Wünschen für Ihr Wohlergehen\r\nund herzlichsten Grüßen\r\nstets der Ihre\r\nR. Beltz.\r\nXI. O\r\n\r\n\r\n",
+      "entities": [
+        [
+          "Schwerin i",
+          "LOC",
+          0,
+          10
+        ],
+        [
+          "April 1930",
+          "EVENT",
+          17,
+          27
+        ],
+        [
+          "Mühlenstr",
+          "LOC",
+          29,
+          38
+        ],
+        [
+          "22",
+          "EVENT",
+          40,
+          42
+        ],
+        [
+          "Herr Kollege",
+          "PER",
+          66,
+          78
+        ],
+        [
+          "vor fünfzig Jahren",
+          "EVENT",
+          351,
+          369
+        ],
+        [
+          "1.",
+          "EVENT",
+          678,
+          680
+        ],
+        [
+          "Museums",
+          "ORG",
+          699,
+          706
+        ],
+        [
+          "meinem Nachfolger",
+          "PER",
+          875,
+          892
+        ],
+        [
+          "Dieser Nachfolger",
+          "PER",
+          910,
+          927
+        ],
+        [
+          "der Museumsrat Dr. Reifferscheid",
+          "PER",
+          934,
+          966
+        ],
+        [
+          "Mecklenburg",
+          "LOC",
+          991,
+          1002
+        ],
+        [
+          "1930",
+          "EVENT",
+          1003,
+          1007
+        ],
+        [
+          "Jahren",
+          "EVENT",
+          1081,
+          1087
+        ],
+        [
+          "R. Beltz",
+          "PER",
+          1213,
+          1221
+        ]
+      ]
+    }
+  ]
+}
