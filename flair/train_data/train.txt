@@ -1,0 +1,3027 @@
+1901 I-EVENT
+. O
+
+III O
+Abth O
+. O
+
+3) O
+Eine O
+Anzahl O
+Rostocker I-LOC
+Verordnungen O
+gegen O
+das O
+Umtragen O
+des O
+Sterns, O
+Auskleiden O
+des O
+Christkindleins___ O
+. O
+
+/ O
+In O
+meinem O
+Bericht O
+vom B-EVENT
+October I-EVENT
+v I-EVENT
+. O
+
+70 O
+1533 I-EVENT
+hat O
+E B-PER
+. O
+
+18/19 O
+. O
+
+Gressow I-LOC
+berichtet O
+die O
+Rost B-ORG
+. O
+
+var B-PER
+v I-PER
+. O
+
+Pferdeköpfe I-ANIMAL
+, O
+bei O
+denen O
+das O
+Aussägen O
+der O
+Ohren O
+vergessen O
+? O
+
+17 O
+. O
+
+8 O
+. O
+
+g O
+. O
+
+Wollen O
+Sie O
+Ihre O
+Zusätze O
+und O
+Aenderungen O
+bald O
+machen O
+und O
+dann O
+an O
+Prof B-PER
+Bloch I-PER
+schicken, O
+mit O
+Anweisung, O
+sie O
+mir O
+wieder O
+zustellen O
+zu O
+wollen O
+? O
+
+1898 I-EVENT
+24 B-EVENT
+. O
+
+Pastoren I-PER
+nur O
+Kirchspiele O
+oder O
+Forsten O
+. O
+
+Doberan I-LOC
+. O
+
+Er O
+ist O
+in B-EVENT
+den I-EVENT
+letzten I-EVENT
+20 I-EVENT
+Jahren I-EVENT
+noch O
+von I-PER
+Rostockern I-PER
+betreten, O
+war O
+damals O
+aber O
+ebenfalls O
+bereits O
+zum O
+Theil O
+eingefallen O
+. O
+
+6 B-EVENT
+. O
+
+„So O
+´n O
+Kassier I-PER
+! O
+
+Ztg B-ORG
+. O
+
+08 I-EVENT
+Sehr O
+geehrter O
+Herr B-PER
+Dr I-PER
+. O
+
+Ausſerordentlich O
+interessiert O
+haben O
+Es O
+hat O
+mich O
+sehr O
+gefreut, O
+dasſ O
+Sie O
+in O
+Biestow I-LOC
+noch O
+so O
+viel O
+haben O
+sammeln O
+können O
+. O
+
+=Schwerin I-LOC
+. O
+
+Krause I-PER
+Hochverehrter O
+Herr B-PER
+Professor I-PER
+! O
+
+auch O
+12 O
+. O
+
+“ O
+— O
+v B-PER
+. O
+
+J B-EVENT
+. O
+
+), O
+wenn O
+sie O
+am O
+(Pfingst I-EVENT
+= O
+? O
+
+versehenen O
+Stellen O
+kann O
+ich O
+jedenfalls O
+noch O
+sicher O
+erfahren; O
+Ob O
+den O
+vollen O
+Text O
+? O
+
+Die O
+Hauptgeschichten O
+im O
+Oldendorfer I-LOC
+Krüge O
+stammen O
+übrigens O
+aus O
+anderer O
+Quelle, O
+aus O
+der O
+ich O
+leider O
+noch O
+nicht O
+schöpfen O
+konnte O
+. O
+
+WossiDiA I-ORG
+UB I-ORG
+
+Nächste O
+Woche O
+kommt O
+das O
+Peltz I-PER
+sche O
+Schema O
+zur O
+Versendung O
+an O
+die O
+Obmänner I-PER
+. O
+
+Mit O
+bestem O
+Grusſ O
+Hr B-PER
+L I-PER
+Krause I-PER
+. O
+
+Nov B-EVENT
+. O
+
+/ O
+In B-LOC
+Plau>/LOC> I-LOC
+suchen I-LOC
+die I-LOC
+Kinder I-LOC
+kleine I-LOC
+durchsichtige I-LOC
+weisſe I-LOC
+Quarz= I-LOC
+steinchen I-LOC
+als I-LOC
+„Glücksteine“ I-LOC
+. O
+
+Mutter B-PER
+Kobrow I-PER
+in O
+Oldendorf I-LOC
+ist O
+mir O
+wohl O
+bekannt O
+. O
+
+zwar O
+z O
+. O
+
+Einige O
+Anlagen O
+mit O
+Notizen O
+von O
+Hrn B-PER
+. O
+
+1901 I-EVENT
+. O
+
+– O
+Herr B-PER
+Angerstein I-PER
+meinte, O
+wenn O
+er O
+sich O
+nicht O
+irre, O
+habe O
+er O
+die O
+Geschichte O
+damals O
+von I-PER
+dem I-PER
+jetzigen I-PER
+Küster I-PER
+Wiedow I-PER
+in I-LOC
+Baumgarten I-LOC
+bei I-LOC
+Bützow I-LOC
+gehört, O
+der O
+die O
+Sache O
+wohl O
+noch O
+ausführlicher O
+wissen O
+würde O
+. O
+
+K O
+410,1 O
+WossiDiA I-ORG
+
+14 O
+
+1902 I-EVENT
+. O
+
+11 B-EVENT
+. O
+
+„Je O
+Herr O
+Doctor, O
+wi O
+hebben O
+von O
+Vertellers, O
+de O
+weten O
+dat O
+allens O
+und O
+wenn O
+wi O
+denn O
+so O
+Sünnabendabends O
+in O
+Winter O
+hir O
+tosammen O
+sitten, O
+denn O
+vertellen O
+di O
+dat O
+. O
+
+I B-EVENT
+. O
+
+März B-EVENT
+94 I-EVENT
+über O
+einen O
+früheren O
+hiesigen O
+Brauch O
+erzählen O
+hörte O
+. O
+
+Stadt B-LOC
+Rostock I-LOC
+gehör O
+. O
+
+Herr B-PER
+Angerstein I-PER
+hörte, O
+als O
+er O
+noch O
+ein O
+Junge O
+war, O
+zu O
+Perlin I-LOC
+folgende O
+Feuerreitergeschichte: O
+Als O
+das I-LOC
+Gehöft I-LOC
+eines I-PER
+dortigen I-PER
+Bauern I-PER
+abbrannte, O
+sattelte O
+dieser O
+sein O
+Pferd O
+und O
+jagte O
+damit O
+aus I-LOC
+dem I-LOC
+brennenden I-LOC
+Gehöfte I-LOC
+in I-LOC
+den I-LOC
+Dorfteich I-LOC
+. O
+
+Wenn O
+de O
+beiden O
+Kierls O
+in O
+eenen O
+Sack O
+schürrt O
+warden, O
+is O
+8 O
+. O
+
+L B-PER
+Krause I-PER
+. O
+
+Vielleicht O
+meint O
+er O
+die O
+oben O
+erwähnte O
+Stadt O
+zw O
+. O
+
+Sept B-EVENT
+. O
+
+KII-2446-3 O
+
+(Beilag O
+zu O
+den O
+Rostock I-LOC
+schen O
+Nachrichten) O
+1768 I-EVENT
+, O
+S O
+. O
+
+1902 I-EVENT
+. O
+
+Zwischendurch O
+vervollständige O
+ich O
+meine O
+Tagebuchregister O
+und O
+suche O
+meine O
+Notizensamm- O
+lungen O
+etwas O
+mehr O
+aufzuordnen, O
+sodasſ O
+auch O
+nach B-EVENT
+meinem I-EVENT
+Tode I-EVENT
+jemand O
+dazwischen O
+durchfinden O
+kann O
+. O
+
+82 O
+sagt O
+Franck I-PER
+ferner: O
+„In B-LOC
+dieser I-LOC
+Landschaft I-LOC
+[_ I-LOC
+. O
+
+nach B-EVENT
+3 I-EVENT
+Uhr I-EVENT
+in O
+Güstrow I-LOC
+festgesetzt O
+. O
+
+Jahrh B-EVENT
+. O
+
+13 O
+1 O
+alter O
+verwitterter O
+& O
+ein O
+nicht O
+fertig O
+ausgeschnittener O
+neuerer O
+Pferdekopf I-ANIMAL
+? O
+
+Buckow, O
+vor O
+. O
+
+“ O
+22 O
+. O
+
+12 B-EVENT
+Dec I-EVENT
+. O
+
+16 O
+. O
+
+Es O
+ist O
+doch O
+schliesſlich O
+eine O
+Masse O
+geworden, O
+was O
+man O
+so O
+in O
+den O
+Jahren O
+zusam- O
+men O
+gestapelt O
+hat, O
+trotzdem O
+ich O
+schon O
+vieles O
+an O
+das O
+Schweriner B-ORG
+& I-ORG
+Rostocker I-ORG
+Museum I-ORG
+, O
+an O
+Geinitz I-PER
+, O
+Zoolog I-ORG
+. O
+
+Nov B-EVENT
+. O
+
+Für O
+die O
+grossen B-LOC
+Forstbezirke I-LOC
+sind O
+zur O
+Hälfte O
+schon O
+Obmänner I-PER
+ge- O
+wonnen O
+(Forstmeister I-PER
+und O
+Oberförster I-PER
+pp), O
+die O
+Liste O
+ist O
+aber O
+noch O
+nicht O
+geschlossen O
+. O
+
+(H B-PER
+Krause I-PER
+, O
+25 I-EVENT
+. O
+
+14/15 O
+Pferdeköpfe I-ANIMAL
+ohne O
+Maul O
+(vgl O
+. O
+
+1803 I-EVENT
+Dr B-PER
+. O
+
+Rostock I-LOC
+, O
+30 B-EVENT
+. O
+
+KII-0246-4 O
+. O
+
+Vor O
+allem O
+versehe O
+ich O
+die O
+einzelnen O
+Sammlun- O
+gen O
+mit O
+kurzem O
+Überblick O
+über O
+den O
+Zweck, O
+wozu O
+sie O
+angelegt O
+und O
+über O
+den O
+beabsichtigten O
+Umfang, O
+damit O
+man O
+später O
+nicht O
+etwa O
+vergeblich O
+etwas O
+darin O
+sucht, O
+was O
+nach O
+dem O
+Zweck O
+der O
+Anlage O
+gar O
+nicht O
+darin O
+sein O
+kann O
+. O
+
+1903 I-EVENT
+1898 I-EVENT
+Kessin I-LOC
+13/11 B-EVENT
+. O
+
+Augustenstr B-LOC
+. O
+
+8 B-EVENT
+. O
+
+Resultat O
+der O
+heutigen O
+Umfrage O
+teile O
+ich O
+dann O
+mit O
+. O
+
+7 B-EVENT
+. O
+
+häufiger O
+vorkommt O
+. O
+
+Bützow I-LOC
+1-4, O
+23 O
+& O
+24: O
+Hornförmige O
+Giebelzier, O
+wie O
+sie O
+bei O
+Schwaan I-LOC
+& O
+Bützow I-LOC
+25 O
+. O
+
+/ O
+In O
+seinem O
+Aufsatze O
+„Nachricht O
+von O
+einem O
+äusſerst O
+seltenen O
+sechsstrei= O
+figen O
+und O
+andern O
+merkwürdigen O
+Echiniten O
+sagt O
+Präpositus B-PER
+Paschen I-PER
+Friedrich I-PER
+Delbrügk I-PER
+zu I-PER
+Stuer I-LOC
+bei I-LOC
+Plau I-LOC
+den O
+8 I-EVENT
+. O
+
+7 O
+. O
+
+375 O
+als O
+Feuerreiter O
+in B-LOC
+Berendshagen I-LOC
+, O
+R O
+. O
+
+Wurde O
+er O
+an O
+einem O
+Tage O
+nicht O
+fertig, O
+so O
+setzte O
+er O
+dies O
+am O
+folgenden B-EVENT
+Tage I-EVENT
+fort O
+. O
+
+Bützow I-LOC
+Niendorf B-LOC
+b I-LOC
+. O
+
+16 O
+. O
+
+1787 I-EVENT
+p O
+. O
+
+Für O
+Malchin I-LOC
+und O
+Teterow I-LOC
+haben O
+wir O
+noch O
+keinen O
+Obmann I-PER
+. O
+
+Ahrenshof I-LOC
+Boitin B-LOC
+b I-LOC
+. O
+
+Dasſ O
+sie O
+in O
+Menge O
+im O
+Volke O
+lebendig O
+sind, O
+habe O
+ich O
+in O
+während O
+meiner O
+Militärzeit B-EVENT
+1888 I-EVENT
+erfahren O
+. O
+
+aus O
+denen O
+damalige O
+Gebräuche O
+ersichtlich O
+sind, O
+führt O
+Nethelbladt I-PER
+an O
+in O
+seinem O
+Verzeichnisſ O
+allerhand, O
+mehrentheils O
+ungedr O
+. O
+
+Die O
+vollständige O
+Ausgabe O
+der O
+Babstschen O
+Lachen O
+habe O
+ich O
+bisher O
+noch O
+nicht O
+gesehen O
+. O
+
+500 O
+M O
+sind O
+bewilligt O
+. O
+
+Augustenstr B-LOC
+. O
+
+16 O
+&1015 O
+4 O
+. O
+
+2 O
+wieder O
+in O
+Vergessenheit O
+gerathen O
+. O
+
+Beim O
+Aufgraben O
+im B-LOC
+Rathskeller I-LOC
+zwecks O
+Legung O
+von O
+Wasserleitung O
+oder O
+Kanal O
+wurde O
+der O
+Gang O
+nach I-EVENT
+1862 I-EVENT
+neben I-LOC
+dem I-LOC
+östl I-LOC
+. O
+
+Da O
+sagt O
+einer B-PER
+der I-PER
+Leute I-PER
+: O
+„Den´ O
+jagt O
+he O
+swetig O
+. O
+
+i B-LOC
+. O
+
+11 O
+. O
+
+Vielleicht O
+ist O
+
+theol B-PER
+. O
+
+F B-PER
+. O
+
+Theil O
+eingefallen, O
+und O
+sein O
+Eingang O
+ist O
+dann O
+vermauert O
+. O
+
+/11 B-EVENT
+. O
+
+oder O
+Oster I-EVENT
+= O
+? O
+
+- O
+(Ein B-PER
+anderer I-PER
+alter I-PER
+Rostocker I-PER
+fügte O
+noch O
+hinzu: O
+Wer O
+ein O
+Ei O
+haben O
+wollte, O
+müsste O
+2 O
+Schillinge O
+bezahlen O
+. O
+
+Bez B-LOC
+. O
+
+“ O
+„Dat O
+will O
+´n O
+wie O
+woll O
+kriegen, O
+segt O
+de B-PER
+Avkat I-PER
+, O
+dor O
+meent O
+he O
+dat O
+10 O
+. O
+
+“ O
+d O
+. O
+
+: O
+„Die O
+gewaltsame O
+Trennung O
+von O
+Dam- B-LOC
+„garten I-LOC
+und O
+Ribnitz O
+durch O
+die O
+Fluth O
+gehört O
+zu O
+den O
+historisch O
+nicht O
+verbürgten O
+Er- O
+„zählungen O
+des O
+Reisenden O
+. O
+
+08 I-EVENT
+Sehr O
+geehrter O
+Herr B-PER
+Dr I-PER
+. O
+
+Juli B-EVENT
+1920 I-EVENT
+. O
+
+Bützow I-LOC
+30 B-EVENT
+. O
+
+95 I-EVENT
+. O
+
+K/I O
+– O
+K428,1 O
+Sehr O
+geehrter O
+Herr B-PER
+Doctor I-PER
+! O
+
+) O
+Das O
+ist O
+Alles, O
+was O
+ich O
+bisher O
+erfahren O
+habe O
+. O
+
+von O
+hier O
+zu O
+übersenden O
+. O
+
+Köpfe O
+? O
+
+Zerreisſen O
+kann O
+man O
+sich O
+ja O
+nicht O
+. O
+
+Der B-PER
+zufällig I-PER
+anwesende I-PER
+Sä- I-PER
+ger I-PER
+schieſst O
+auf O
+ihn, O
+trifft O
+aber O
+nicht O
+. O
+
+Mit O
+bestem O
+Gruß O
+Ihr O
+ganz O
+ergebenster O
+L B-PER
+Krause I-PER
+. O
+
+Anrede O
+an O
+ei- O
+nen O
+Miſsgünstigen O
+. O
+
+Anbei O
+die O
+Listen O
+derselben, O
+auf O
+Bezirke I-LOC
+verteilt; O
+die O
+unter- O
+strichenen O
+Namen O
+sind O
+Obmänner I-PER
+. O
+
+1) O
+An O
+älterer O
+Litteratur O
+sei O
+hier O
+noch O
+genannt: O
+ein O
+Aufsatz O
+H B-PER
+. O
+
+Rostock I-LOC
+, O
+11 B-EVENT
+. O
+
+Mittelung O
+von O
+Frl B-PER
+Seemann I-PER
+folgt O
+anbei O
+KII-0246-6 O
+
+20 O
+. O
+
+Dort O
+wird O
+ein O
+Matthäusfest I-EVENT
+in O
+Rostock I-LOC
+erwähnt, O
+ein O
+Dank= O
+fest O
+zur O
+Erinnerung O
+an O
+die O
+am O
+21 B-EVENT
+. O
+
+In B-EVENT
+2 I-EVENT
+Wochen I-EVENT
+denke O
+ich O
+die O
+1 O
+. O
+
+Einen O
+alten O
+Brauch O
+aus O
+Schönberg B-LOC
+u I-LOC
+. O
+
+Öttelin B-LOC
+b I-LOC
+. O
+
+2 B-EVENT
+. O
+
+1901 I-EVENT
+. O
+
+8 O
+vielleicht O
+Gänse I-ANIMAL
+. O
+
+Anbei O
+gestatte O
+ich O
+mir, O
+Ihnen O
+wieder O
+einige O
+Redens- O
+arten O
+und O
+dergl O
+. O
+
+„Schlusen“ O
+= O
+Name O
+eines O
+Kartenspieles O
+. O
+
+Karten O
+vom O
+Statistischen B-ORG
+Amt I-ORG
+erhältlich O
+. O
+
+1573 I-EVENT
+abgeschlos= O
+senen O
+ersten O
+Erbvertrag O
+. O
+
+11 O
+. O
+
+Arrente O
+mf O
+Rostock I-LOC
+, O
+7 B-EVENT
+. O
+
+63 O
+/ O
+S O
+. O
+
+leth O
+bidden O
+mennichly_en O
+thor O
+Villige, O
+morgen O
+thor O
+Seelmissen O
+. O
+
+08 I-EVENT
+An O
+Herrn B-PER
+Dr I-PER
+Witte I-PER
+und O
+Dr I-PER
+Wossidlo I-PER
+. O
+
+16 O
+. O
+
+5 O
+. O
+
+131, O
+nach= O
+dem O
+er O
+erwähnt, O
+daſs O
+sich O
+in O
+seiner O
+Sammlung O
+auſser O
+den O
+Echiniten O
+auch O
+viele O
+Orthoceratiten O
+und O
+über O
+400 O
+Belemniten O
+befinden: O
+„Nachdem O
+„ich O
+den B-PER
+gemeinen I-PER
+Mann I-PER
+, O
+besonders O
+Hirten I-PER
+und O
+Schäfer I-PER
+von O
+ihren O
+Vor= O
+„urtheilen O
+und O
+abergläubischen O
+Meinungen, O
+die O
+sie O
+von O
+der O
+Kraft O
+„dieses O
+Gesteins, O
+und O
+der O
+von O
+ihm O
+sogenannten O
+Kröten=, O
+Kreuz= O
+oder O
+
+Die B-PER
+Rostocker I-PER
+nannten O
+dies: O
+Dat O
+Fett O
+von O
+de O
+Gös O
+blasen O
+. O
+
+9 B-EVENT
+. O
+
+S O
+. O
+
+Enthält O
+eine O
+ganze O
+Anzahl O
+Notizen O
+über O
+Mecklb B-LOC
+. O
+
+Für O
+die O
+gr B-LOC
+. O
+
+(Ebenda I-PER
+, O
+1769 I-EVENT
+. O
+
+Werden B-EVENT
+die I-EVENT
+Tage I-EVENT
+dagegen I-EVENT
+länger I-EVENT
+, O
+so O
+heisſt O
+es: O
+„uns O
+avkat O
+verspeelt“, O
+da O
+nun O
+für O
+denselben O
+Lohn O
+wieder O
+länger O
+gearbeitet O
+werden O
+musſ O
+. O
+
+1 B-EVENT
+. O
+
+a O
+. O
+
+Rostock I-LOC
+, O
+5 B-EVENT
+. O
+
+Sie O
+ist O
+aber O
+vom O
+Alter O
+allmählig O
+stumpf O
+geworden O
+. O
+
+mit O
+. O
+
+Eisfeldt I-PER
+füge O
+ich O
+noch O
+in O
+Original O
+bei O
+. O
+
+Jahrb O
+. O
+
+11 B-EVENT
+. O
+
+“ O
+pag O
+. O
+
+Karten O
+versendet O
+Witte I-PER
+. O
+
+Sie O
+brauchen O
+etwa O
+2 O
+Seiten O
+folio, O
+was O
+im O
+Druck O
+eine O
+wird O
+. O
+
+w O
+. O
+
+7 B-EVENT
+. O
+
+2 O
+S O
+. O
+
+Einzelne O
+der O
+Leute O
+konnten O
+Stundenlang O
+Räth= O
+sel O
+aufgeben O
+. O
+
+Die O
+nächste O
+Sendung O
+wird O
+vielleicht O
+wieder O
+verschiedene O
+Wiederholungen O
+bringen, O
+da O
+ich O
+in O
+meines B-PER
+Vaters I-PER
+Papieren O
+noch O
+allerlei O
+Notizen O
+gefunden O
+habe, O
+von O
+denen O
+ich O
+nicht O
+weiſs, O
+ob O
+er O
+sie O
+Ihnen O
+früher O
+bereits O
+übermittelt O
+hat O
+. O
+
+8 B-EVENT
+. O
+
+b O
+. O
+
+Eine O
+klare O
+Uebersicht O
+über O
+die O
+Bezirke I-LOC
+ist O
+noch O
+unmöglich, O
+da O
+noch O
+viele O
+Anfragen O
+ausstehen O
+und O
+von O
+anderen B-LOC
+Gebieten I-LOC
+kein O
+Material O
+vorliegt O
+. O
+
+Die O
+mit O
+? O
+
+XVII O
+s O
+. O
+
+A O
+. O
+
+2 B-EVENT
+. O
+
+H O
+. O
+
+Nachm B-EVENT
+. O
+
+Können O
+Sie O
+es O
+übernehmen O
+? O
+
+H B-PER
+. O
+
+Weih= O
+nachtsbräuche O
+. O
+
+Gar O
+zu O
+sehr O
+mächte O
+ich O
+die O
+Zentrale I-ORG
+auch O
+nicht O
+belastet O
+sehen: O
+ich O
+habe O
+wirklich O
+genug O
+Arbeit O
+davon O
+. O
+
+Tuch O
+um O
+Staken O
+toglick, O
+segt O
+de O
+Schäper, O
+dor O
+steckt O
+he O
+dat O
+11 O
+. O
+
+Bülow I-LOC
+„Wanderungen O
+eines B-PER
+fahrenden I-PER
+Schülers I-PER
+durch I-LOC
+Pommern I-LOC
+und I-LOC
+Mecklenburg I-LOC
+1590 I-EVENT
+“ O
+aus O
+einer O
+Reisebeschrei- O
+bung O
+des O
+stud I-PER
+. O
+
+1898 I-EVENT
+3 B-EVENT
+. O
+
+) O
+Morgen O
+in O
+die O
+Stadt O
+ka= O
+men O
+. O
+
+In O
+dem O
+1843 I-EVENT
+erschienenen O
+Auszug O
+aus O
+Babst I-PER
+, O
+Allerhand O
+schnaksche O
+Saken O
+hum O
+Tiedverdriew“ O
+kommt O
+letztere O
+Geschichte O
+nicht O
+vor O
+. O
+
+Es O
+war O
+ein O
+Privileg O
+dieser B-PER
+Knechte I-PER
+an O
+diesem O
+Morgen O
+mit O
+ihren O
+Peitschen O
+zur O
+Stadt O
+zu O
+kommen O
+. O
+
+1900 I-EVENT
+3 B-EVENT
+. O
+
+N O
+. O
+
+K/I O
+– O
+K428,6 O
+„Knopf=Steine O
+hegen, O
+befreiet O
+habe, O
+so O
+bringen O
+sie O
+nun O
+diese O
+„ihre O
+zum O
+Theil O
+von B-PER
+den I-PER
+Groſsvätern I-PER
+angeerbte O
+Hausgötzen O
+„mir O
+häufig O
+zu O
+. O
+
+4 B-EVENT
+. O
+
+23/ O
+Wie O
+mir O
+Herr B-PER
+Lehrer I-PER
+Angerstein I-PER
+hier O
+mittheilt O
+sind O
+im O
+Ludwigsluster I-ORG
+Wochenblatt I-ORG
+in I-EVENT
+den I-EVENT
+Jahren I-EVENT
+1853-57 I-EVENT
+verschiedene O
+Hexenprozesſ_ O
+abgedruckt O
+24/ O
+. O
+
+Preuſsen I-LOC
+Kaufmannswaaren O
+bracht O
+„und O
+verhandelt O
+worden, O
+welche O
+auch O
+durch O
+ihre O
+eigene O
+bürgerliche O
+Kneinigkeit, O
+„Krieg O
+und O
+Empörung O
+durch O
+den B-PER
+König I-PER
+aus I-PER
+Dännemark I-PER
+gar O
+in O
+den O
+Grund O
+ist O
+„verderbet O
+worden O
+. O
+
+Sehr O
+geehrter O
+Herr B-PER
+Prof I-PER
+. O
+
+und O
+zwar O
+dies O
+Mal O
+meist O
+solche O
+aus O
+meiner O
+eigenen O
+Kin= O
+der=Erinnerung O
+hier O
+aus O
+Rostock I-LOC
+. O
+
+Misſachtende O
+Äuſserung O
+über O
+Rentje O
+! O
+
+Boitin B-LOC
+bei I-LOC
+Bützow I-LOC
+Steinhagen I-LOC
+Prisannewitz I-LOC
+18 I-EVENT
+. O
+
+Weihnachtsfestes I-EVENT
+. O
+
+De O
+prahlt O
+immer O
+mit O
+de O
+leddig O
+Fischblaas O
+. O
+
+Dec B-EVENT
+. O
+
+„Kenlichkeit O
+möt O
+sin, O
+segt O
+de B-PER
+Fru I-PER
+, O
+dor O
+fegt O
+se O
+mit O
+`n O
+Bessen O
+9 O
+´n O
+Disch O
+af O
+. O
+
+Ich O
+erwähne O
+hier O
+ferner O
+noch O
+dasjenige, O
+was O
+ich O
+von O
+einem B-PER
+alten I-PER
+Rostocker I-PER
+am O
+19 I-EVENT
+. O
+
+Ich O
+hatte O
+schon O
+immer O
+die O
+Absicht O
+einmal O
+eine O
+Sammlung O
+hiesiger O
+alter O
+& O
+neuer O
+Giebelzierrate O
+im O
+Niedersachsen I-ORG
+oder O
+der O
+Zeitschrift B-ORG
+für I-ORG
+Ethologie I-ORG
+zu O
+veröffentlichen, O
+um O
+sie O
+so O
+im O
+Bilde O
+festzuhalten, O
+bin O
+bisher O
+aber O
+nicht O
+dazu O
+gekommen O
+. O
+
+Wen O
+könnten O
+wir O
+z O
+. O
+
+Dändorf I-LOC
+16 B-EVENT
+. O
+
+6 B-EVENT
+. O
+
+9 O
+& O
+25 O
+rohe O
+Mulapen I-ANIMAL
+? O
+
+Kellerportal I-LOC
+aufgefunden O
+. O
+
+Schwaan I-LOC
+18 B-EVENT
+. O
+
+Rostock I-LOC
+, O
+23 B-EVENT
+. O
+
+Wohl O
+unfertige O
+Pferdeköpfe I-ANIMAL
+, O
+die O
+wie O
+12 O
+haben O
+werden O
+sollen O
+. O
+
+1-10 O
+sämmtlich O
+von O
+Eisfeldt I-PER
+gehört, O
+u O
+. O
+
+Beitr O
+. O
+
+Dabei O
+sei O
+hier O
+auch O
+noch O
+ein O
+alter O
+Ro- B-LOC
+stocker I-LOC
+Brauch O
+erwähnt, O
+den O
+ich O
+hier, O
+wie O
+folgt, O
+erzählen O
+hörte: O
+Am O
+10 I-EVENT
+. O
+
+Teil O
+ohne O
+sein O
+Wissen O
+während O
+des O
+Gespräches O
+notiert O
+. O
+
+Mit O
+herzlichem O
+Grasſ O
+Ihr O
+ganz O
+ergebenster O
+L B-PER
+Krause I-PER
+. O
+
+4 B-EVENT
+. O
+
+“ O
+Lehrer B-PER
+Brand I-PER
+zu I-PER
+Neuenkirchen I-LOC
+bei I-LOC
+Bützow I-LOC
+[ein O
+Bruder O
+15 O
+. O
+
+Sachen O
+nicht O
+aus O
+eigener O
+Erinnerung O
+gegeben O
+sind, O
+habe O
+ich O
+Ort O
+und O
+Datum O
+nach O
+meinem O
+Tagebuche O
+beigefügt O
+. O
+
+v O
+. O
+
+Die O
+Flam- O
+men O
+züngelten O
+dicht O
+hinter O
+ihm O
+her, O
+bis O
+er O
+in B-LOC
+den I-LOC
+Dorfteich I-LOC
+kam, O
+da O
+hatten O
+sie O
+keine O
+Macht O
+mehr O
+über O
+ihn O
+und O
+das O
+Feuer O
+legte O
+sich O
+. O
+
+E B-PER
+. O
+
+Schwerin I-LOC
+finden O
+Sie O
+wohl O
+noch O
+geeignete O
+Obmänner I-PER
+. O
+
+K/I O
+- O
+K428,7 O
+scher O
+Gang B-LOC
+zum I-LOC
+Rathhause I-LOC
+. O
+
+Alterthümer O
+interessiert, O
+für O
+un- O
+sere O
+Zwecke O
+heranziehen O
+läsſt O
+. O
+
+und O
+für O
+Röbel I-LOC
+, O
+Dargun I-LOC
+, O
+Laage I-LOC
+, O
+Boizeburg I-LOC
+"ad O
+"Umkreis": O
+anderswar O
+es O
+nicht O
+zu O
+fassen, O
+da O
+eben O
+nichts O
+genaues O
+vorlag; O
+das O
+nähere O
+ergab O
+sich O
+durch O
+die O
+Antworten O
+. O
+
+einen O
+Rentier, O
+der O
+nichts O
+zum O
+Leben O
+hat O
+. O
+
+Geld O
+mit O
+. O
+
+Nachr O
+. O
+
+1903 I-EVENT
+. O
+
+K/I O
+- O
+K428,2 O
+„Sik O
+hür O
+de O
+Krei O
+wol O
+hausten“ O
+= O
+ich O
+vermäthe O
+etwas O
+. O
+
+Umstehend O
+eine O
+kleine O
+Auswahl O
+aus O
+meiner O
+Bauernhausmappe O
+. O
+
+15 O
+. O
+
+8 B-EVENT
+. O
+
+Die O
+Zahl O
+der O
+bei O
+mir O
+eingetragenen O
+Sammler I-PER
+beträgt O
+heute I-EVENT
+213 O
+. O
+
+Börgerende B-LOC
+b I-LOC
+. O
+
+He O
+speelt O
+immer O
+Strevkatt O
+Wenn B-EVENT
+die I-EVENT
+Tage I-EVENT
+kürzer I-EVENT
+werden I-EVENT
+, O
+sagen O
+die I-PER
+Leute I-PER
+auf I-PER
+dem I-PER
+Lande I-PER
+: O
+"uns O
+avkat O
+gewinnt“ O
+d O
+. O
+
+Sehr O
+geehrter O
+Herr O
+! O
+
+/ O
+Ein B-PER
+Bassewitz I-PER
+von I-PER
+Hohen=Lukow I-PER
+kommt O
+im O
+Meckl O
+. O
+
+Ribnitz I-LOC
+und O
+Damgarten I-LOC
+. O
+
+3 B-EVENT
+Uhr I-EVENT
+bei O
+Herrn I-PER
+Peltz I-PER
+vor O
+. O
+
+habe O
+ich O
+sub O
+N: O
+. O
+
+“ O
+v B-PER
+. O
+
+11 O
+5 O
+. O
+
+Prisannewitz I-LOC
+Zeez B-LOC
+b I-LOC
+. O
+
+er O
+thut O
+immer O
+groſs, O
+hat O
+aber O
+nichts O
+in O
+der O
+Kasse O
+. O
+
+8 B-EVENT
+. O
+
+für O
+die O
+Teterower B-LOC
+Gegend I-LOC
+nehmen O
+? O
+
+Krutschen O
+Caro O
+Treff O
+Trefflich O
+schön O
+singt O
+unser B-PER
+Küster I-PER
+. O
+
+Entschuldigen O
+Sie O
+bitte, O
+wenn O
+ich O
+erst O
+heute I-EVENT
+dazu O
+komme O
+Ihnen O
+für O
+Ihre O
+liebenswürdigen O
+Mitteilungen O
+über O
+Biestow I-LOC
+und O
+Mönchhagen I-LOC
+, O
+die O
+mich O
+bedanken O
+. O
+
+Ich O
+habe O
+am B-EVENT
+obigen I-EVENT
+Da= I-EVENT
+tum I-EVENT
+Folgendes O
+notiert: O
+De O
+lütten O
+Fisch O
+de O
+mögen O
+wi O
+nich, O
+De O
+groten O
+de O
+geven O
+uns O
+de O
+Herren O
+nich, O
+Swinsbraden O
+im O
+Eierfladen O
+de O
+mögen O
+wi O
+girn O
+K/I O
+- O
+K O
+416,4 O
+So O
+beteten O
+die I-PER
+Knechte I-PER
+von I-PER
+Bramow I-PER
+(und O
+Biestow I-LOC
+? O
+
+1903 I-EVENT
+. O
+
+6 O
+. O
+
+116 B-LOC
+I I-LOC
+. O
+
+Föhre B-LOC
+bei I-LOC
+Schwerin I-LOC
+6 O
+. O
+
+s O
+. O
+
+Ein O
+Schema O
+lässt O
+sich O
+nicht O
+durch- O
+führen O
+. O
+
+Bargeshagen I-LOC
+17 O
+. O
+
+Besten O
+Gruss O
+E B-PER
+Geinitz I-PER
+Für O
+Penzlin I-LOC
+-Stadtfeldmark O
+ist O
+stud I-PER
+Budzier I-PER
+hier O
+. O
+
+Rath I-PER
+alles O
+noch O
+übrige O
+papistisch O
+abergläu= O
+4) O
+bische O
+Wesen O
+in B-LOC
+der I-LOC
+Stadt I-LOC
+abgeschaffet, O
+darunter O
+das O
+Ave= O
+Marien=Glöcklein, O
+und O
+die O
+Gewohnheit, O
+wenn O
+die O
+Frauens O
+bey O
+jeder O
+Kirchen I-LOC
+mit O
+diesen O
+Worten O
+zur O
+Leichen O
+gebeten: O
+N O
+. O
+
+Wo O
+die O
+betr O
+. O
+
+aus B-PER
+Toitenwinkel I-LOC
+in O
+der O
+Rost I-ORG
+. O
+
+08 I-EVENT
+Die O
+Kommissionssitzung I-EVENT
+ist O
+nunmehr O
+auf O
+Sonnabend, B-EVENT
+d I-EVENT
+. O
+
+6 B-EVENT
+. O
+
+K/I O
+- O
+K O
+425,6 O
+letzten B-EVENT
+Ferien I-EVENT
+, O
+in O
+denen O
+ich O
+auf O
+einige O
+Tage O
+bei O
+Keh- I-PER
+dings I-PER
+in I-LOC
+Prangendorf I-LOC
+war, O
+die I-PER
+alte I-PER
+Kathenfrau I-PER
+, O
+von O
+der O
+mein I-PER
+Korpsbruder I-PER
+die O
+meisten O
+Sachen O
+früher O
+gehört O
+hat, O
+schwer O
+erkrankt, O
+so O
+dasſ O
+zur O
+Zeit O
+auf O
+diese O
+Quelle O
+verzichtet O
+werden O
+muſste O
+. O
+
+& O
+20 O
+Bedeutung O
+mir O
+nicht O
+klar O
+. O
+
+Bützow I-LOC
+3 B-EVENT
+. O
+
+Eventuelle O
+Aenderung O
+vorbehaltend O
+schlage O
+ich O
+eine O
+mündliche O
+Verhandlung O
+in O
+Güstrow I-LOC
+Sonntag B-EVENT
+d I-EVENT
+. O
+
+Börgerende I-LOC
+26 B-EVENT
+. O
+
+Der O
+Gang O
+ist O
+allerdings O
+vorhanden O
+gewesen O
+. O
+
+Giese I-PER
+, O
+der O
+auch O
+mehrfach O
+geäusſert O
+hat, O
+von B-LOC
+seinem I-LOC
+Haus I-LOC
+führe O
+noch O
+ein O
+alter O
+unterirdi- O
+
+Pferdeköpfe I-ANIMAL
+mit O
+Futtersäcken O
+. O
+
+“ O
+In O
+den O
+Baltischen O
+Studien O
+XXX O
+(1880 I-EVENT
+) O
+theilt O
+Staatsarchi- B-PER
+17 I-PER
+. O
+
+Na, O
+vielleicht O
+findet O
+sich O
+doch O
+noch O
+mal O
+die O
+Zeit O
+. O
+
+09 I-EVENT
+E B-PER
+Geinitz I-PER
+KII-0246-12 O
+
+Augus1 B-EVENT
+1897 I-EVENT
+) O
+21 O
+. O
+
+" O
+" O
+" O
+mit O
+Zaumzeug O
+. O
+
+Er O
+war O
+aber O
+schon O
+z O
+. O
+
+Picus O
+der O
+Waldspecht O
+. O
+
+3 B-EVENT
+. O
+
+Michael B-PER
+Franck I-PER
+ebendort O
+pag O
+82/83 O
+auch O
+Rethra I-LOC
+: O
+„Item O
+Rethra I-LOC
+, O
+da O
+noch O
+alte O
+Uhrkundt O
+und O
+rudera O
+einer O
+feinen O
+Stadt O
+„vorhanden, O
+allda O
+auch O
+ein I-LOC
+Tempel I-LOC
+des I-LOC
+Abgotts I-LOC
+Radagast I-LOC
+gewe- O
+
+1897 I-EVENT
+sub O
+„Schönberg I-LOC
+, O
+24 B-EVENT
+. O
+
+Sehr O
+geehrter O
+Herr B-PER
+Dr I-PER
+. O
+
+“ O
+Da O
+Franck I-PER
+von B-LOC
+Pommern I-LOC
+über I-LOC
+Ribnitz I-LOC
+direkt O
+nach I-LOC
+Rostock I-LOC
+wanderte, O
+sich O
+hier O
+längere O
+Zeit O
+aufhielt O
+und O
+dann O
+zu O
+Schiff O
+in I-LOC
+die I-LOC
+nordischen I-LOC
+Reiche I-LOC
+weiter O
+zog, O
+wird O
+vermuthlich O
+er O
+diese O
+Überlieferung O
+in I-LOC
+Rostock I-LOC
+gehört O
+haben O
+. O
+
+1898 I-EVENT
+. O
+
+Sie O
+hal- O
+ten O
+eine O
+aus O
+Stroh O
+geflochtene O
+Kiepe O
+mit O
+Kiebitzeiern O
+mit O
+. O
+
+Jan B-EVENT
+. O
+
+Ihr O
+ganz O
+ergebenster O
+Dr B-PER
+L I-PER
+Krause I-PER
+. O
+
+Wohnung O
+(Straße O
+und O
+Hausnummer) O
+
+Gang O
+führte O
+aus B-LOC
+dem I-LOC
+Rathskeller I-LOC
+bis O
+mitten O
+unter O
+den I-LOC
+neuen I-LOC
+Markt I-LOC
+, O
+wahrscheinlich O
+ursprünglich O
+zu O
+dem O
+hier O
+einst O
+ste= O
+henden O
+Kaak O
+. O
+
+Pigne O
+As O
+ausgespielt O
+wenn O
+wird O
+. O
+
+„Sei O
+günnen O
+´n O
+Düvel I-PER
+nich O
+mal O
+´n O
+Picklicht“ O
+! O
+
+K/I O
+- O
+K428,3 O
+man O
+an B-EVENT
+bestimmten I-EVENT
+Tagen I-EVENT
+um I-EVENT
+Neujahr I-EVENT
+nicht O
+waschen O
+dürfe, O
+von O
+Frauen I-PER
+der I-PER
+unteren I-PER
+Stände I-PER
+hier I-PER
+in I-PER
+Rostock I-LOC
+zwei O
+verschiedene O
+Meinungen O
+. O
+
+Bahnanlagen I-LOC
+eigentlich O
+immer O
+drausſen I-LOC
+sein; O
+aber O
+was O
+hilft´s O
+. O
+
+am B-EVENT
+Martinstag I-EVENT
+, O
+hatte O
+früher O
+in O
+Rostock I-LOC
+der O
+Stadtmusicus I-PER
+das O
+Recht O
+in O
+allen O
+Strasſen O
+der O
+Stadt O
+Musik O
+zu O
+machen O
+und O
+Geld O
+dafür O
+einzusammeln O
+. O
+
+5 O
+. O
+
+Dann O
+hörte O
+ich O
+hier O
+kürzlich O
+Bruchstücke O
+eines O
+längeren O
+plattdeutschen O
+Gedichtes O
+über O
+den O
+
+199-208) O
+. O
+
+1898 I-EVENT
+. O
+
+Giebelzierrate O
+habe O
+ich O
+noch O
+gut O
+3 O
+bis O
+4 O
+mal O
+soviele, O
+wie O
+umstehende O
+Zahl, O
+in O
+meiner O
+Mappe O
+und O
+den O
+Mit O
+freundlichem O
+Grusſ O
+Tagebüchern O
+. O
+
+Besten O
+Gruss O
+E B-PER
+Geinitz I-PER
+. O
+
+9 O
+. O
+
+10 O
+. O
+
+95 B-EVENT
+. O
+
+Wer O
+die O
+Eier O
+sehen O
+wollte, O
+mußte O
+einen O
+Schil- O
+ling O
+bezahlen O
+. O
+
+Liste O
+der O
+Sammler I-PER
+und O
+Obmänner I-PER
+zu O
+drucken O
+und O
+zu O
+versenden O
+. O
+
+, O
+befindl O
+. O
+
+Damit O
+für O
+heute O
+genug O
+. O
+
+immer O
+en O
+_egen O
+baben“ O
+= O
+sie O
+taugen O
+beide O
+nichts O
+. O
+
+(Dr B-PER
+Wossidlo I-PER
+und O
+ichmüssten O
+von O
+der O
+Schweriner I-EVENT
+Versammlung I-EVENT
+1,20 O
+abfahren O
+zus O
+mit O
+Dr I-PER
+Witte I-PER
+) O
+Bitte O
+um O
+gef O
+baldige O
+Nachricht, O
+ob O
+der O
+Vorschlag O
+genehm O
+. O
+
+1897 I-EVENT
+(N: O
+578) O
+u O
+. O
+
+Doch O
+will O
+ich O
+mit O
+Bloch I-PER
+einmal O
+reden, O
+ob O
+sich O
+ein O
+bequemerer O
+Modus O
+finden O
+lässt O
+. O
+
+Rostock I-LOC
+, O
+15 B-EVENT
+. O
+
+Schwaan I-LOC
+, O
+3 B-EVENT
+. O
+
+Kessin I-LOC
+13 B-EVENT
+. O
+
+auch O
+angeführt, O
+daſs O
+sie O
+unberechtigt O
+gefischt O
+hätten, O
+„indem O
+sie O
+mit O
+einer O
+sog O
+»Griep« O
+nach O
+Aalen O
+fischten, O
+mithin O
+unter O
+Anwendung O
+von O
+K_t- O
+teln O
+zur O
+Verwundung O
+der O
+Fische O
+den O
+Fischfang O
+betrieben O
+. O
+
+3 O
+. O
+
+Dr B-PER
+. O
+
+es O
+giebt O
+denselben O
+Lohn O
+für O
+weniger O
+Arbeit, O
+da O
+Abends I-EVENT
+früher O
+Feierabend O
+gemacht O
+wird O
+. O

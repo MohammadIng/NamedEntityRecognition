@@ -1,0 +1,388 @@
+{
+  "results": [
+    {
+      "id": "21783",
+      "sender": "Geinitz",
+      "text": "Rostock, 11.3.08\r\nSehr geehrter Herr Dr.\r\nAnbei die Formulare.\r\nDie Eingänge habe ich weiter gegeben, weil ich die Verantwortung\r\ndafür nicht tragen will und mir das Schweriner Archiv als der\r\nsicherste Ort erscheint. Gar zu sehr mächte ich die Zentrale\r\nauch nicht belastet sehen: ich habe wirklich genug Arbeit davon.\r\nDoch will ich mit Bloch einmal reden, ob sich ein bequemerer Modus\r\nfinden lässt.\r\nDie noch vorhandenen Lücken wollen wir sich allmälich von\r\nselbst füllen lassen (mitteleres Meckl)\r\nBestens grüssend\r\nIhrergebener\r\nE Geinitz\r\nKII-0246-9\r\n",
+      "entities": [
+        [
+          "Rostock",
+          "LOC",
+          0,
+          7
+        ],
+        [
+          "Dr",
+          "PER",
+          37,
+          39
+        ],
+        [
+          "Bloch",
+          "PER",
+          339,
+          344
+        ],
+        [
+          "Meckl",
+          "PER",
+          496,
+          501
+        ],
+        [
+          "Geinitz",
+          "PER",
+          538,
+          545
+        ]
+      ]
+    },
+    {
+      "id": "21787",
+      "sender": "Geinitz",
+      "text": "Sehr geehrter Herr Prof. Anbei der Entwurf von Peltz. Wollen Sie\r\nIhre Zusätze und Aenderungen bald machen und dann an Prof Bloch\r\nschicken, mit Anweisung, sie mir wieder zustellen zu wollen?\r\nAm Schluss müssen wir wohl noch auf die Sagenfrage hinweisen?\r\nErrebenst\r\n4.2.09\r\nE Geinitz\r\nKII-0246-12\r\n",
+      "entities": [
+        [
+          "Prof.",
+          "PER",
+          19,
+          24
+        ],
+        [
+          "Peltz",
+          "PER",
+          47,
+          52
+        ],
+        [
+          "Prof Bloch",
+          "PER",
+          119,
+          129
+        ],
+        [
+          "Geinitz",
+          "PER",
+          277,
+          284
+        ]
+      ]
+    },
+    {
+      "id": "21782",
+      "sender": "Geinitz",
+      "text": "Rostock, 5.3.08\r\nAn Herrn Dr Witte und Dr Wossidlo.\r\nDie Zahl der bei mir eingetragenen Sammler beträgt heute 213.\r\nAnbei die Listen derselben, auf Bezirke verteilt; die unter-\r\nstrichenen Namen sind Obmänner.\r\nDie Listen bitte zu behalten und zu ergänzen; Nachträge in April\r\nan mich mitzuteilen.\r\nBez. Schwerin finden Sie wohl noch geeignete Obmänner.\r\nDie Karte von Peltz zirkuliert an die beiden Herren mit der Bitte\r\num demnächstige Rückgabe an mich.\r\nDie Kartenvorlage von Peltz ist in 300 Ex vervielfältigt, wurde\r\njedem Obmann zugesandt und steht Ihnen weiter zur Verfügung,\r\neinige Exemplare folgen schon heute.\r\nFür die grossen Forstbezirke sind zur Hälfte schon Obmänner ge-\r\nwonnen (Forstmeister und Oberförster pp), die Liste ist aber noch\r\nnicht geschlossen. Für die gr. Seen fehlen noch Adressen.\r\nDie eingelaufenen Beiträge schicke ich anbei an Herrn Dr Witte:\r\nStrelitz ist noch nicht geordnet.\r\nErgebenst\r\nGeinitz\r\nKII-0246-7\r\n",
+      "entities": [
+        [
+          "Rostock",
+          "LOC",
+          0,
+          7
+        ],
+        [
+          "Dr Witte",
+          "PER",
+          26,
+          34
+        ],
+        [
+          "Dr Wossidlo",
+          "PER",
+          39,
+          50
+        ],
+        [
+          "Bez",
+          "PER",
+          299,
+          302
+        ],
+        [
+          "Schwerin",
+          "LOC",
+          304,
+          312
+        ],
+        [
+          "Peltz",
+          "PER",
+          369,
+          374
+        ],
+        [
+          "Peltz",
+          "PER",
+          479,
+          484
+        ],
+        [
+          "Dr Witte",
+          "PER",
+          867,
+          875
+        ],
+        [
+          "Strelitz",
+          "PER",
+          878,
+          886
+        ],
+        [
+          "Geinitz",
+          "PER",
+          924,
+          931
+        ]
+      ]
+    },
+    {
+      "id": "BKW-K059-001-001-001",
+      "sender": "Krause",
+      "text": "Beitr.\r\nganz v vorne\r\nL. Krause\r\nHochverehrter Herr Professor!\r\nEntschuldigen Sie bitte, wenn ich erst heute dazu komme Ihnen\r\nfür Ihre liebenswürdigen Mitteilungen über Biestow und Mönchhagen, die mich\r\nbedanken.\r\nAusſerordentlich interessiert haben Es hat mich sehr gefreut, dasſ Sie in Biestow noch\r\nso viel haben sammeln können. Mich halten die ewig sich überstürzenden\r\nneuen Verwaltungsanordnungen fast immer am Schreibtisch fest und ich müsſte\r\nbei den jetzigen hiesigen neuen Strasſen, = Chausſee = d. Bahnanlagen eigentlich immer\r\ndrausſen sein; aber was hilft´s. Zerreisſen kann man sich ja nicht. Zwischendurch\r\nvervollständige ich meine Tagebuchregister und suche meine Notizensamm-\r\nlungen etwas mehr aufzuordnen, sodasſ auch nach meinem Tode jemand\r\ndazwischen durchfinden kann. Vor allem versehe ich die einzelnen Sammlun-\r\ngen mit kurzem Überblick über den Zweck, wozu sie angelegt und über den\r\nbeabsichtigten Umfang, damit man später nicht etwa vergeblich etwas darin\r\nsucht, was nach dem Zweck der Anlage gar nicht darin sein kann. Es ist\r\ndoch schliesſlich eine Masse geworden, was man so in den Jahren zusam-\r\nmen gestapelt hat, trotzdem ich schon vieles an das Schweriner & Rostocker\r\nMuseum, an Geinitz, Zoolog. Institut, Schulsammlung und namentlich das\r\nRatsarchiv hier abgegeben habe. Umstehend eine kleine Auswahl aus\r\nmeiner Bauernhausmappe. Ich hatte schon immer die Absicht einmal eine\r\nSammlung hiesiger alter & neuer Giebelzierrate im Niedersachsen oder der Zeitschrift für\r\nEthologie zu veröffentlichen, um sie so im Bilde festzuhalten, bin bisher aber nicht\r\ndazu gekommen. Ebenso steht es mit hölzernen & schmiedeeisernen Grabmonumenten\r\nunserer Dorffriedhöfe, von denen ich nach & nach eine ganze Anzahl gezeichnet\r\nhabe. Na, vielleicht findet sich doch noch mal die Zeit. Giebelzierrate habe ich\r\nnoch gut 3 bis 4 mal soviele, wie umstehende Zahl, in meiner Mappe und den\r\nMit freundlichem Grusſ\r\nTagebüchern.\r\nIhr ganz ergebenster\r\nDr L Krause.\r\nK 410,1\r\n\r\n\r\nWossiDiA\r\n",
+      "entities": [
+        [
+          "L. Krause",
+          "PER",
+          22,
+          31
+        ],
+        [
+          "Biestow",
+          "LOC",
+          170,
+          177
+        ],
+        [
+          "Mönchhagen",
+          "LOC",
+          182,
+          192
+        ],
+        [
+          "Biestow",
+          "LOC",
+          289,
+          296
+        ],
+        [
+          "Geinitz",
+          "PER",
+          1218,
+          1225
+        ],
+        [
+          "Niedersachsen",
+          "LOC",
+          1467,
+          1480
+        ],
+        [
+          "Dr L Krause",
+          "PER",
+          1970,
+          1981
+        ]
+      ]
+    },
+    {
+      "id": "BKW-K059-001-001-002",
+      "sender": "Krause",
+      "text": "Rostock, 15. Juli\r\n1920.\r\n\r\nPrisannewitz\r\nZeez b.  Schwaan\r\n18. 11.1898.\r\n10. 7. 1901.\r\nÖttelin b. Bützow\r\nNiendorf b. Schwaan, 3.4.1899.\r\n7.5. 1899.\r\n\r\nAhrenshof\r\nBoitin b. Bützow\r\n30.8.1900\r\n3.6.1903.\r\nDändorf 16.4.1906.\r\nKessin 13./11. 1898.\r\nÖttelin 27/10. 1901.\r\nb. Bützow\r\n1-4, 23 & 24: Hornförmige Giebelzier, wie sie bei Schwaan & Bützow\r\n25.\r\nhäufiger vorkommt.\r\n11\r\n5. Schwanenköpfe an einem alten Hause.\r\nFöhre bei Schwerin\r\n6. Alte Hahnenköpfe am Hintergiebel eines Strohdaches, am Vordergiebel schon auf\r\n25.9.1906\r\nrechter neuerer Zierrat.\r\n7. an je einem Hause. Was 7 darstellen soll ist mir nicht klar geworden. 8 vielleicht Gänse.\r\n8. Köpfe? oder Mulapen mit abgebrochenen Ohren?\r\n9 & 25 rohe Mulapen?\r\n10. Pferdeköpfe, bei denen das Aussägen der Ohren vergessen? An beiden Giebeln des Hauses.\r\n11. Wohl unfertige Pferdeköpfe, die wie 12 haben werden sollen.\r\n13 1 alter verwitterter & ein nicht fertig ausgeschnittener neuerer Pferdekopf?\r\n14/15 Pferdeköpfe ohne Maul (vgl. auch 12.)\r\n14.\r\n16. Pferdeköpfe mit Futtersäcken.\r\n17. \" \" \" mit Zaumzeug.\r\n18/19. & 20 Bedeutung mir nicht klar.\r\n21/22 neuere Zierraterest nur gekreuzte Bretter.\r\nGehlsdorf 10.10 1892\r\n10.\r\n11.\r\n15.\r\nBoitin b. Bützow\r\n3.6.1903.\r\nBörgerende b. Doberan\r\nPrisannewitz 18/11. 1898\r\n24.8.1902.\r\n16.\r\n18.\r\nBargeshagen\r\n17.\r\nBörgerende\r\n26. 8. 1901.\r\nb. Doberan. 24. 8. 1902.\r\nBoitin bei Bützow\r\nSteinhagen\r\nPrisannewitz 18./11. 1898\r\n3. 6. 1903\r\n1898 \r\nKessin 13/11. 1819 Kessin 13. 11. 1803\r\nDr. L Krause.\r\n\r\nWossiDiA\r\nUB\r\n",
+      "entities": [
+        [
+          "Rostock",
+          "LOC",
+          0,
+          7
+        ],
+        [
+          "Prisannewitz  Zeez",
+          "PER",
+          28,
+          46
+        ],
+        [
+          "Schwaan",
+          "PER",
+          51,
+          58
+        ],
+        [
+          "Öttelin",
+          "PER",
+          88,
+          95
+        ],
+        [
+          "Bützow  Niendorf",
+          "PER",
+          99,
+          115
+        ],
+        [
+          "Schwaan",
+          "LOC",
+          119,
+          126
+        ],
+        [
+          "Ahrenshof  Boitin",
+          "PER",
+          153,
+          170
+        ],
+        [
+          "Bützow",
+          "LOC",
+          174,
+          180
+        ],
+        [
+          "Dändorf",
+          "PER",
+          204,
+          211
+        ],
+        [
+          "Kessin",
+          "PER",
+          224,
+          230
+        ],
+        [
+          "Öttelin",
+          "PER",
+          246,
+          253
+        ],
+        [
+          "Bützow",
+          "PER",
+          271,
+          277
+        ],
+        [
+          "Schwaan & Bützow",
+          "LOC",
+          329,
+          345
+        ],
+        [
+          "Schwerin",
+          "LOC",
+          426,
+          434
+        ],
+        [
+          "Vordergiebel",
+          "LOC",
+          494,
+          506
+        ],
+        [
+          "Gehlsdorf",
+          "PER",
+          1157,
+          1166
+        ],
+        [
+          "Boitin",
+          "PER",
+          1194,
+          1200
+        ],
+        [
+          "Bützow",
+          "PER",
+          1204,
+          1210
+        ],
+        [
+          "Börgerende",
+          "PER",
+          1223,
+          1233
+        ],
+        [
+          "Doberan  Prisannewitz",
+          "PER",
+          1237,
+          1258
+        ],
+        [
+          "Bargeshagen",
+          "LOC",
+          1294,
+          1305
+        ],
+        [
+          "Börgerende",
+          "PER",
+          1312,
+          1322
+        ],
+        [
+          "Doberan",
+          "PER",
+          1341,
+          1348
+        ],
+        [
+          "Boitin",
+          "PER",
+          1364,
+          1370
+        ],
+        [
+          "Bützow  Steinhagen  Prisannewitz",
+          "ORG",
+          1375,
+          1407
+        ],
+        [
+          "Kessin",
+          "PER",
+          1441,
+          1447
+        ],
+        [
+          "Kessin",
+          "LOC",
+          1460,
+          1466
+        ],
+        [
+          "L Krause",
+          "PER",
+          1485,
+          1493
+        ],
+        [
+          "WossiDiA  UB",
+          "ORG",
+          1498,
+          1510
+        ]
+      ]
+    },
+    {
+      "id": "BKW-K059-004-001-001",
+      "sender": "Krause",
+      "text": "\r\nK/I - K 413,1\r\nDeutsche Reichspost\r\nPostkarte\r\nAn\r\nHerrn Oberlehrer R. Wossidlo\r\nin Waren i/ M.\r\nWohnung\r\n(Straße und Hausnummer)\r\n\r\n",
+      "entities": [
+        [
+          "Deutsche Reichspost",
+          "ORG",
+          17,
+          36
+        ],
+        [
+          "R. Wossidlo",
+          "PER",
+          70,
+          81
+        ]
+      ]
+    }
+  ]
+}
