@@ -8,7 +8,7 @@ from transformers import DataProcessor
 class DataProcessor:
 
     def __init__(self):
-        self.output_file = "train_data/train.txt"
+        self.output_file = "../train_data/train.txt"
         self.base_data_folder = "../base_data"
         self.train_data_folder = "train_data"
 

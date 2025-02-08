@@ -51,11 +51,11 @@ class Evaluator:
 
     # Processes files to extract ground truth entities and save them in JSON format.
     def extract_ground_truth(self):
-        output_file = "json_data/ground_truth.json"
+        output_file = "../json_data/ground_truth.json"
         results = []
 
         file_paths = []
-        for root, dirs, files in os.walk("evaluate_data"):
+        for root, dirs, files in os.walk("../evaluate_data"):
             for file in files:
                 file_paths.append(os.path.join(root, file))
 
@@ -146,11 +146,11 @@ class Evaluator:
         self.extract_ground_truth()
 
         # Extract ground truth entities from annotated text files
-        ground_truth_path = "json_data/ground_truth.json"
-        tool_final_path = "json_data/final-model.pt_output.json"
-        tool_best_path = "json_data/best-model.pt_output.json"
-        tool_std_path = "json_data/std_flair_model_output.json"
-        tool_spacy_path = "json_data/std_spacy_model_output.json"
+        ground_truth_path = "../json_data/ground_truth.json"
+        tool_final_path = "../json_data/final-model.pt_output.json"
+        tool_best_path = "../json_data/best-model.pt_output.json"
+        tool_std_path = "../json_data/std_flair_model_output.json"
+        tool_spacy_path = "../json_data/std_spacy_model_output.json"
 
         # Load the ground truth and model outputs from JSON files
         ground_truth = self.load_json(ground_truth_path)["results"]
