@@ -79,10 +79,6 @@ The `Evaluator` script calculates:
 The fine-tuned Flair model demonstrates clear improvements, especially in detecting **historical person names**, **archaic spellings**, and **context-specific locations**.
 
 ---
-
-### 📚 Citation  
-> Mohammad Matar, *Named Entity Recognition on Historical German Texts using Flair and spaCy Models*,  
-> University of Rostock, 2025.  
 > Base Model: [Flair NER German – Hugging Face](https://huggingface.co/flair/ner-german)
 
 ---
